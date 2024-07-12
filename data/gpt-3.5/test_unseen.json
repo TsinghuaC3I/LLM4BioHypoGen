@@ -1,0 +1,802 @@
+[
+  {
+    "background":" (1) The prevalence of depressive symptoms is common among Korean police officers. (2) Four subgroups of depressive symptoms were identified: \"at-risk\", \"anhedonic\", \"somatic\", and \"minimal\". (3) Drinking behaviors were higher in the at-risk group, working hours were greater in the somatic group, and sleep quality and fatigue were related in the anhedonic group. ",
+    "hypothesis":" (1) Different subgroups of depressive symptoms exist among Korean police officers. (2) Drinking behaviors may contribute to the at-risk subgroup of depressive symptoms. (3) Longer working hours may contribute to the somatic subgroup of depressive symptoms, and poor sleep quality and fatigue may contribute to the anhedonic subgroup. "
+  },
+  {
+    "background":" (1)Virtual patient and computer-based exploratory research is being used in clinical and social pharmacy.  (2) There is evidence supporting the use of simulation in pharmacy education.  (3) Virtual patient technology has been used to educate pharmacists and pharmacy students on patient communication.  ",
+    "hypothesis":" (1)The use of virtual patient and computer-based exploratory research can enhance learning and skills development in clinical and social pharmacy.  (2) Simulation-based teaching methodologies can be effectively implemented in pharmacy education.  (3) Virtual patient technology can improve pharmacists' and pharmacy students' communication skills.  "
+  },
+  {
+    "background":" (1)Hypertrophic chondrocytes undergo apoptosis and are replaced by bone (2) ERK1/2 signaling regulates chondrocyte differentiation (3) VEGFR2 is involved in phosphate-induced ERK1/2 activation in hypertrophic chondrocytes,  ",
+    "hypothesis":" (1)Circulating phosphate levels determine hypertrophic chondrocyte apoptosis (2) VEGFR2 mediates the effects of extracellular phosphate on growth plate maturation (3) Pi-induced ERK1/2 activation in hypertrophic chondrocytes requires VEGFR2 signaling,  "
+  },
+  {
+    "background":" (1)The actin cytoskeleton participates in cellular processes including cell and organelle architecture, endocytosis, vesicular trafficking, and organelle inheritance and communication. (2) Perturbations in the control of actin dynamics can trigger cell death, often linked to mitochondrial function. (3) The actin regulatory protein cofillin plays a role in regulating mitochondrial function and can interact with and damage mitochondria. ",
+    "hypothesis":"hypotheses:"
+  },
+  {
+    "background":" (1) Skin repair in mature skin (MS) is compromised, resulting in slow closure and scar outcomes. (2)  Fetal skin (FS) repair demonstrates scar-free regenerative characteristics. (3)  Gingival tissue repair shares some characteristics of fetal repair.  ",
+    "hypothesis":" (1) The diversity of human FS fibroblasts is unique compared to that of adult skin. (2)  A specific subpopulation of FS fibroblasts accounts for this uniqueness. (3)  The Annexin signaling pathway contributes to the beneficial role of FS and HGG in tissue repair. "
+  },
+  {
+    "background":" (1)K+ channel proteins are essential for electrical signaling and maintaining the resting membrane potential; (2) The selectivity filter in K+ channel proteins is formed from amino acids in each of the four protein subunits, creating four binding sites; (3) Two competing models of K+ transport through the selectivity filter have been proposed: soft-knock and hard-knock mechanism. ",
+    "hypothesis":" (1)The soft-knock mechanism suggests alternating potassium ions and water molecules in the binding sites, with ions moving through the filter stepwise; (2) The hard-knock mechanism suggests minimal presence of water molecules in the filter and strong electrostatic repulsions between ions during transport; (3) Molecular dynamics simulations and X-ray crystallography support the soft-knock mechanism, while the hard-knock mechanism is inconsistent with experimental observations. "
+  },
+  {
+    "background":" (1)NADP-MDH enzyme activity is commonly assayed spectrophotometrically by following oxaloacetate-dependent NADPH oxidation at 340 nm.  (2) The authors have developed a plate-adapted protocol to monitor NADP-MDH activity which allows faster data production and lower reagent consumption compared to the classic cuvette format of a spectrophotometer.  (3) The protocol provides a semi-automatized data analysis procedure using an R script.  ",
+    "hypothesis":" (1)Chloroplast NADP-MDH activation level can serve as a proxy for the chloroplast redox status. (2) The plate-adapted protocol can increase experimental replicates and precision while reducing costs.  (3) The developed method can be applicable to measure NADP-MDH activity in various plant species.  "
+  },
+  {
+    "background":" (1)Myeloid cells, specifically microglia and macrophages, are activated in retinal diseases. (2) Current methods for assessing the myeloid cell response in retinal injury in mice are challenging due to small tissue size and difficulty distinguishing microglia from infiltrating macrophages. (3) Flow cytometry offers a robust quantitative method to analyze immune cell response in retinal injury models, allowing for the identification of various markers of interest using the same sample.   ",
+    "hypothesis":" (1)Using flow cytometry, retinal microglia/macrophages and their inflammatory phenotype after injury can be accurately assessed. (2) Additional markers of interest can be incorporated into the flow cytometry protocol to further characterize myeloid cell subsets and their inflammatory phenotype. (3) The flow cytometry protocol will yield high yields of viable cells and enable the analysis of different immune cell populations after retina injury.  "
+  },
+  {
+    "background":"  (1) Catheter ablation is considered the treatment of choice for cardiac arrhythmias.  (2)  Fluoroscopy has limitations such as inadequate soft tissue visualization and exposure to ionizing radiation.  (3)  Advancements in imaging techniques have enhanced the safety, efficacy, and efficiency of catheter ablation procedures.  ",
+    "hypothesis":" (1) The integration of alternative imaging modalities can overcome the limitations of fluoroscopy in catheter ablation. (2)  Imaging techniques enable accurate anatomical guidance, identification of critical structures, and real-time monitoring of complications during electrophysiology procedures. (3)  Incorporating advanced imaging technologies into clinical practice can improve clinical outcomes and lead to personalized ablation therapies.  "
+  },
+  {
+    "background":" (1) The identification of disease-causing genes revolutionized the understanding of familial arrhythmogenic conditions such as hypertrophic cardiomyopathy (HCM) and long QT syndrome (LQTS). (2)  Genetic studies over the years led to the discovery of major disease-causing genes in channelopathies and cardiomyopathies. (3)  Technological advancements like SNP arrays and next-generation sequencing allowed the identification of novel disease-causing genes, such as CALM genes in LQTS and catecholaminergic polymorphic ventricular tachycardia (CPVT).   ",
+    "hypothesis":" (1) Common variants or SNPs present in the general population could influence the phenotypic manifestation of monogenic diseases as modifiers. (2)  Ultra-rare genetic variants exist in our genome, some of which may have weak evidence of pathogenicity but are disease-causing. (3)  Modifier genes inherited together with an LQTS disease-causing mutation can alter the clinical severity directly due to the specific mutation.  "
+  },
+  {
+    "background":"  (1) EP Europace has published over 300 basic and translational science articles on various arrhythmia types, diseases predisposing to arrhythmia formation, and treatment strategies including pacing, ablation, and drug therapies. (2)  Studies have been conducted in cellular models, small and large animal models, and computational approaches. (3)  Manuscripts have investigated scar formation after ablation, differences in scar/lesion formation in healthy and diseased myocardium, impact of pacing on synchronicity and heterogeneity in repolarization, and the feasibility of sunlight-powered cardiac pacing.   ",
+    "hypothesis":"  (1) The loss of bi-directional conduction block in individual lesions may lead to arrhythmia recurrence following ablation. (2)  Differences in scar/lesion formation between healthy and diseased myocardium impact the effectiveness of performing ablations. (3)  Baseline repolarization characteristics may be important for lead position selection during pacing.  "
+  },
+  {
+    "background":" (1)Syncope is commonly defined as any form of temporary loss of consciousness. (2) The first syncope guidelines published in Europace in 2001 separated syncope from other forms of transient loss of consciousness and defined it as a fall in systemic blood pressure leading to global cerebral hypoperfusion. (3) Syncope can be caused by various factors including reflex bradycardia or bradyarrhythmia, reduced stroke volume, and impaired sympathetic control of vasoconstriction.   ",
+    "hypothesis":" (1)The haemodynamic features of vasovagal syncope (VVS) patients may be attributed to lower circulating blood volume, increased venous pooling, and abnormal neuroendocrine activation. (2) Anxiety might play a role in the reflex-related phenotype of syncope. (3) There may be a genetic basis for reflex syncope, as evidenced by positive family history and genetic susceptibility to lower blood pressure and altered autonomic control of circulation.   "
+  },
+  {
+    "background":"  (1)Cardiac resynchronization therapy (CRT) was proposed as a new therapy for heart failure patients with wide QRS and depressed left ventricular ejection fraction. (2) Different pacing modalities of CRT have been proposed to increase the response rate, such as multisite pacing and endocardial pacing. (3) A new emerging alternative technique to conventional biventricular pacing, conduction system pacing (CSP), is a promising therapy.  ",
+    "hypothesis":"  (1)Optimizing atrioventricular and interventricular timing can improve the effectiveness of CRT. (2) Pacing at the latest-activated regions can increase contractility and efficiency of the left ventricle. (3) LV lead positioning should not solely rely on measurements of mechanical dyssynchrony.  "
+  },
+  {
+    "background":" (1)The past 25 years have seen significant development in the field of digital electrophysiology, including advancements in telemonitoring of cardiac implantable electronic devices (CIEDs) and the use of wearable devices for cardiac rhythm monitoring. (2) Telemonitoring of CIEDs has been shown to reduce time to detection of clinically actionable events and improve patient outcomes. (3) Wearable devices, such as smartwatches, rings, and fitness trackers, have become more accurate and reliable in monitoring cardiac rhythm using photoplethysmography.  ",
+    "hypothesis":" (1)The implementation of telemonitoring and the use of wearable devices for cardiac rhythm monitoring will continue to increase in the future. (2) Artificial intelligence can be utilized to better identify actionable alerts and improve patient outcomes in telemonitoring of CIEDs. (3) Smartwatches may have the potential to replace CIEDs in certain cases.  "
+  },
+  {
+    "background":" (1) The lifting of the degeneracy in the bands leads to spin polarization and the possibility of spin-polarized currents. ",
+    "hypothesis":" (3)  The present approach of exposing hidden spin-polarized bands opens up possibilities for superconducting quantum spintronics devices.  "
+  },
+  {
+    "background":" (1)In the early stage of MI, \u03b1short and \u03b1long can track and distinguish MI samples from healthy control samples with an AUC > 0.7. (2)  In the mid-stage and late-stage of MI, E2, E3, and Etotal exhibit excellent discriminating performance with an AUC > 0.6. (3)  All cardiac tissues display a universal two-stage power-law rheology at different time scales, independent of their disease status. ",
+    "hypothesis":" (1) The sequential order of MI-related changes in cardiac tissues starts from the cytoplasmic level and progresses to the cellular and tissue levels. (2)  Pathological changes at subcellular, cellular, and tissue levels are accompanied by mechanical alterations. (3)  The proposed mechanical markers have diagnostic potential for assessing the progression of MI and studying other cardiovascular diseases. "
+  },
+  {
+    "background":" (1) Multisystem inflammatory syndrome in adults (MIS-A) can occur in 2.5% of critically ill COVID-19 patients. (2)  MIS-A patients have a higher likelihood of using Extracorporeal Membrane Oxygenation (ECMO) and lower overall survival compared to non-MIS-A patients. (3)  More than 80% of MIS-A cases occur 3 weeks after the onset of COVID-19.   ",
+    "hypothesis":" (1) The delayed immunologic response to SARS-CoV-2 may contribute to the development of MIS-A. (2)  The occurrence of MIS-A may be associated with a re-elevation of the unexplained inflammatory response. (3)  Severe dysfunction of at least two extrapulmonary organ systems may be a defining characteristic of MIS-A.  "
+  },
+  {
+    "background":"  (1) Diagnosed dementia prevalence and incidence rates in Medicare Advantage (MA) were lower compared to traditional Medicare (TM). (2) The prevalence of diagnosed dementia in MA was 7.04% (95% CI: 7.03 to 7.06) in 2017. (3) The incidence of diagnosed dementia in MA was 2.54% (95% CI: 2.53 to 2.55) in 2017.  ",
+    "hypothesis":"  (1) Differences in care provision and utilization between MA and TM may explain the lower diagnosed dementia rates in MA. (2) The payment systems to MA plans might influence private plan incentives to provide services related to the detection and diagnosis of dementia. (3) The differences in diagnosed dementia rates between MA and TM may contribute to racial/ethnic disparities in diagnosed dementia.  "
+  },
+  {
+    "background":" (1)The cohesion of HA fillers has been recognized as an important factor. (2) Hyalumatrix, a cohesive HA filler, showed significantly higher cohesion compared to Matrifill and Restylane, which were particulate gels. (3) The strong internal interactions of the cohesive gel protected the network structure from collapsing and maintained its integrity under stress.   ",
+    "hypothesis":" (1)HA fillers with high cohesion may exhibit better properties related to safety and effectiveness, such as recovery under shear stress, injectability, tissue integration, and resistance to enzymolysis. (2) Cohesion may play a role in improving tissue compliance and injectability. (3) The G' (storage modulus) of HA fillers may vary depending on their cohesion level.   "
+  },
+  {
+    "background":" (1)Ankle sprains are common injuries in the general population and in athletes. (2) Most ankle sprains result from an inversion-supination mechanism and involve the ligaments of the lateral ankle, such as the anterior talofibular ligament (ATFL) and calcaneofibular ligament (CFL). (3) Lateral ankle sprains are graded on a scale of I to III based on anatomical disruption and laxity on physical exam. ",
+    "hypothesis":" (1)Surgery can help patients with chronic lateral ankle instability after failed conservative measures. (2) The variant Brostrom procedure with suture anchors and augmentation of both the ATFL and CFL can effectively improve functionality in daily life and sports activity. (3) Suture augmentation can facilitate return to sports activity in patients with lateral ankle instability. "
+  },
+  {
+    "background":" (1)Firms in the growth stage significantly increase their internal R&D expenses and make active technology acquisitions when there is higher analyst attention. (2) Analyst attention plays a role in promoting R&D investment and corporate venture capital activities when firms enter maturity. (3) In the decline period, firms are more inclined to innovate independently under the influence of analyst attention, especially non-state enterprises and high-tech enterprises. ",
+    "hypothesis":" (1)Higher analyst attention positively influences firms' innovation paths in terms of increased R&D expenses and technology acquisitions during the growth stage. (2) Analyst attention positively affects R&D investment and corporate venture capital activities during the maturity stage. (3) Analyst attention encourages independent innovation during the decline period, particularly for non-state and high-tech enterprises. "
+  },
+  {
+    "background":" (1) The study examines sustainability trends in G20 countries for the period 1992\u20132018. (2) Indicators such as ecological footprints, natural resources, renewable energy (RE), and non-renewable energy (NRE) are considered. (3) The empirical result confirms that using renewable energy impacts environmental sustainability in the long run and decreases ecological footprints.  ",
+    "hypothesis":" (1) Renewable energy positively contributes to environmental sustainability. (2) Non-renewable energy and natural resources have a negative impact on sustainable development. (3) The promotion of renewable energy can empower the United Nations' agenda for sustainable development.  "
+  },
+  {
+    "background":" (1)Octanoic acid effectively inhibits S. aureus biofilm formation in milk. (2) Octanoic acid clears biofilms and eradicates antibiotic-tolerant cells. (3) Antibiotics treated at >100X MBC induce small colony variants (SCVs) and antibiotic-tolerant cells. ",
+    "hypothesis":" (1)Octanoic acid may prevent the progression of bovine mastitis. (2) Octanoic acid can offer a new treatment strategy for bovine mastitis. (3) Octanoic acid exhibits bactericidal action against S. aureus biofilms and reduces the risk of persistent cells and pathogen tolerance. "
+  },
+  {
+    "background":" (1)COVID-19 trends are rapidly changing due to virus mutations and concept drift in daily confirmed cases. (2) Traditional prediction models struggle to keep up with the dynamic nature of the pandemic. (3) Spatial dependency and temporal autocorrelation pose challenges for predicting the spread of the virus. ",
+    "hypothesis":" (1)A novel approach is needed to accurately predict COVID-19 trends. (2) Modeling the dynamic temporal autocorrelation can improve predictions. (3) Considering spatial dependencies between cities can enhance the accuracy of predictions. "
+  },
+  {
+    "background":"  (1) The United States is the most productive country in terms of publishing articles on hemorrhagic shock. (2)  The University of Pittsburgh is the most productive publishing institution in the field. (3)  SHOCK is the most cited journal in relation to hemorrhagic shock research.  ",
+    "hypothesis":"  (1) The areas related to \"protect\" and \"transfusion\" may emerge as research directions in the future. (2)  Harvard University may continue to have a strong presence and contribution in hemorrhagic shock research. (3)  Authors such as HASAN B ALAM, AARON M WILLIAMS, and LIMIN ZHANG may continue to publish high-quality articles in the future.  "
+  },
+  {
+    "background":" (1)Myeloid cells, including bone marrow derived macrophages (BMDMs) and microglia, have a significant role in the evolution of traumatic spinal cord injuries (SCI). (2)  Infiltrating BMDMs may take on the morphology of resident microglia and upregulate canonical microglia markers, making it difficult to distinguish the two populations. (3)  Time-resolved single-cell RNA sequencing (scRNAseq) and transgenic fate-mapping techniques were used to analyze the transcriptional profiles of tissue-resident and infiltrating myeloid cells in a mouse model of thoracic contusion SCI.   ",
+    "hypothesis":" (1) The presence of a subpopulation of inflammatory myeloid cells expressing Fatty Acid Binding Protein 5 (Fabp5) has been identified through scRNAseq profiling. (2)  The Fabp5+ inflammatory myeloid cells are both tissue-resident and infiltrating. (3)  The Fabp5+ inflammatory myeloid cells display a delayed cytotoxic profile in chronic phase SCI.  "
+  },
+  {
+    "background":" (1) The study examined changing trends of mental response and behavioral variables in China during the transition from the COVID-19 epidemic to sporadic infection. (2)  The mean uncertainty stress and other variables such as perceived risk, perceived severity, self-efficacy for prevention, and prevention behavior did not significantly change over the observation period. (3)  There was a statistically significant downward trend in irrational beliefs about prevention, sleep, emotions, and lifestyle. ",
+    "hypothesis":" (1) The mental and preventive patterns may change during the transition from the COVID-19 epidemic to sporadic infection. (2)  Uncertainty stress may be positively associated with irrational beliefs, sleep, emotions, and lifestyle. (3)  High levels of uncertainty stress may be negatively associated with self-efficacy for prevention and prevention behavior. "
+  },
+  {
+    "background":" (1)Cervical alignment parameters were measured pre- and postoperatively, including local kyphotic angles (LKA), C2-7 Cobb angle, T1 slope, and C2-7 sagittal vertical axis (C2-7 SVA). ",
+    "hypothesis":" (1)Anterior cervical discectomy and fusion (ACDF) may have similar surgical efficacy to anterior cervical corpectomy and fusion (ACCF) in treating local kyphotic cervical spondylotic myelopathy (LKCSM). (2) Correction of cervical local kyphosis (CLK) may improve neurological function and axial symptoms (AS). (3) ACDF may be more favorable than ACCF for CLK correction. "
+  },
+  {
+    "background":" (1)Spheroids have improved therapeutic potential over mono-disperse cells. (2) The vulnerability to degradation of hydrogels is critical for cellular proliferation. (3) Higher concentrations of degradable crosslinker promote robust cell spreading, outgrowth, and secretion of proangiogenic cytokines. ",
+    "hypothesis":" (1)Matrix remodeling through hydrogel degradation influences the therapeutic potential of heterotypic spheroids for wound healing. (2) Rapid hydrogel degradation, achieved through endogenous MMP secretion, promotes cell sprouting, migration, and proangiogenic growth factor production. (3) The degradability of the cell carrier should be carefully considered for the regenerative potential of EC-MSC spheroids. "
+  },
+  {
+    "background":" (1)ACSL4 deficiency attenuated PQ-induced acute lung lesion and decreased mortality. (2) ACSL4 deficiency suppressed PQ-induced lung inflammation and neutrophil migration. (3) ACSL4 deficiency attenuated MTX-induced pulmonary fibrosis. ",
+    "hypothesis":" (1)ACSL4 gene deletion reduces PUFA-containing membrane phospholipids. (2) Reduced PUFA-containing phospholipids suppress lipid peroxidation. (3) ACSL4 inhibition may prevent and treat chemical-induced lung injury. "
+  },
+  {
+    "background":" (1)The impact of cylindrical and conical stainless-steel reflectors on the sonochemical oxidation activity of ultrasonication reactors was investigated. (2)  The amount of effective acoustic power transferred to the ultrasonicated medium was measured without and with reflectors. (3)  Iodide dosimetry and sonochemiluminescence imaging were used to assess the sonochemical oxidation activity and acoustic cavitation bubble distribution. ",
+    "hypothesis":" (1) The position and shape of the reflectors would affect the sonochemical oxidation activity. (2)  Directing and focusing of ultrasonic waves by reflectors may modify the ultrasonic field and acoustic cavitation bubble distribution. (3)  The use of conical reflectors in the Fresnel zone may improve the sonochemical oxidation activity. "
+  },
+  {
+    "background":" (1) Dexpanthenol and ADMSCs treatments significantly decreased renal function and oxidative stress while significantly enhancing antioxidants in comparison to the cisplatin group. (2)  Dexpanthenol improved stem cells by down-regulating caspase-3, IL-6, TGF-b1, Fibronectin, and b-catenin, and up-regulating Bcl2 and CD34. (3)  Cisplatin-induced acute kidney injury was reversed by the combined treatment of dexpanthenol and ADMSCs.  ",
+    "hypothesis":" (1) Dexpanthenol enhances the protective effect of ADMSCs against cisplatin-induced acute kidney injury. (2)  The protective mechanism of dexpanthenol involves the regulation of inflammation, apoptosis, and fibrosis-related genes. (3)  Dexpanthenol acts synergistically with ADMSCs to improve renal function and reduce oxidative stress in cisplatin-induced acute kidney injury.  "
+  },
+  {
+    "background":" (1)The wear behavior of EV31A magnesium alloy during dry sliding wear at various temperatures was investigated. (2)  Weight loss method was used to calculate the wear rate, and optical microscopy, FE-SEM with EDS analysis, and XRD analysis were performed to examine the alloy's microstructure, wear morphology, and changes in crystal structure before and after the wear test. (3)  The as-cast, T4, and T6 heat-treated EV31A alloys exhibited delamination, oxide development, and delamination mixed with plastic deformation as wear mechanisms.",
+    "hypothesis":" (1) The wear resistance of EV31A alloy can be improved by the presence of Nd and Zr oxides, but not by Mg and Gd oxides.  (2)  Coefficient of friction (CoF) is mainly influenced by temperature, while wear rate is mainly influenced by normal load. (3)  Machine learning models, such as Artificial Neural Network (ANN) and Fine Gaussian Support Vector Machine (SVM), can accurately predict the tribological characteristics of the alloy."
+  },
+  {
+    "background":" (1)EV-A71 infection caused pyroptosis formation in SH-SY5Y cells. (2) circRNA sequencing identified the differentially expressed circRNAs and their possible functions. (3)  hsa_circ_0045431/hsa_miR_584/NLRP3 regulatory axis might be involved in pyroptosis formation during EV-A71 infection. ",
+    "hypothesis":" (1) Activation of hsa_circ_0045431/hsa_miR_584/NLRP3 regulatory axis leads to pyroptosis formation during EV-A71 infection. (2)  Upregulation of hsa_circ_0045431 and NLRP3 promotes inflammatory pyroptosis and viral replication. (3)  Upregulation of hsa_miR_584 suppresses inflammatory pyroptosis and viral replication. "
+  },
+  {
+    "background":" (1)Primary breast sarcoma is a rare tumor type that originates from mesenchymal tissue. (2)  Primary leiomyosarcoma (LMS) of the breast is even more rarely observed. (3)  Leiomyosarcomas typically have a better prognosis than other types of breast sarcomas. ",
+    "hypothesis":" (1) Treatment protocols for breast sarcomas are mainly based on what is known about soft-tissue sarcomas. (2)  Surgery with adequate margins remains the best treatment choice. (3)  Neoadjuvant chemotherapy may be effective for the treatment of metastatic disease. "
+  },
+  {
+    "background":" (1)Macrophages play important roles in tissue repair, inflammation, and the progression of various diseases. (2) Quantum dots (QDs) are colloidal nanoparticles with diameters ranging from several to dozens of nanometers that exhibit strong and stable fluorescence with high quantum yields and photostability. (3) QDs can impact the activity of macrophage cells, commonly inducing macrophage phenotype transformation.  ",
+    "hypothesis":" (1)Modulating macrophage phenotypes using engineered quantum dots may offer novel strategies for macrophage theranostics. (2) Modifying quantum dots with targeting ligands can enhance their specificity towards macrophage cells for targeted bioimaging and tracking. (3) Quantum dots can serve as a tool for macrophage polarization and immune cell modulation, opening up new avenues for treating various diseases. "
+  },
+  {
+    "background":" (1)Outpatient parenteral antimicrobial therapy (OPAT) is the administration of parenteral antimicrobial therapy in at least two doses on different days outside of an acute hospital setting. (2) Several antimicrobials traditionally dosed multiple times a day are used for OPAT. (3) Continuous infusion (CI) is a possible option to leverage less-frequent administration and maximize the chances of meeting pharmacokinetic and pharmacodynamic (PK-PD) targets.  ",
+    "hypothesis":" (1)CI may be less burdensome than intermittent infusions for OPAT. (2) CI may allow for a dose administration just once daily, reducing the frequency of antimicrobial administration. (3) The use of ambulatory electronic infusion pumps or elastomeric devices may improve patient satisfaction with CI.  "
+  },
+  {
+    "background":" (1)Breast myiasis in an elderly male patient presenting with a palpable mass in the areola and serohematic discharge from a central orifice. (2)  Breast ultrasound and biopsy revealed a structure compatible with myiasis. (3)  Histopathological examination confirmed the presence of larvae invading the breast tissue. ",
+    "hypothesis":" (1) The palpable mass and serohematic discharge were indicative of a breast intraductal lesion. (2)  The patient may have been exposed to myiasis-causing larvae in a tropical or subtropical area. (3)  The lack of knowledge about tropical diseases among healthcare professionals contributed to the diagnostic challenge. "
+  },
+  {
+    "background":" (1)Foreign body (FB) ingestion is a common emergency among the pediatric population. (2) Colonoscopy as management of FB ingestion in the ileocecal valve (IC) is rare in the medical literature review. (3) A case of an FB (thin needle-shaped FB 4 cm long) in the IC that was removed from the IC by colonoscopy is reported.   ",
+    "hypothesis":" (1)Colonoscopic retrieval of impacted foreign bodies at the GI tract in children may be helpful in young children to avoid invasive surgical treatment. (2) Indications for using colonoscopy in right-side colonic FB retrieval are not well-documented due to the need for full bowel preparation and increased risk of bowel perforation. (3) Radiographs, CT scans, and endoscopy are useful diagnostic tools for determining the location and management of ingested FBs.   "
+  },
+  {
+    "background":" (1)Left renal vein stent migrated to the pulmonary artery in a patient with Nutcracker syndrome. (2)  Previous imaging had confirmed proper positioning of the stent in the left renal vein. (3)  Patient presented to the emergency department with suprapubic pain and was found to have stent migration on abdominal computed tomography scan. ",
+    "hypothesis":" (1) Migration of left renal vein stent to the pulmonary artery is a rare complication of endovascular stenting for Nutcracker syndrome. (2)  Stent migration may occur even after initial confirmation of proper stent positioning. (3)  Suprapubic pain may be an indicative symptom of stent migration in patients with Nutcracker syndrome. "
+  },
+  {
+    "background":"  (1) Primary clear cell adenocarcinoma of the vagina (PCCAV) is a rare form of vaginal cancer. (2)  PCCAV typically affects young women with a history of prenatal exposure to DES. (3)  Metastasis of clear cell adenocarcinoma from the vaginal cancer can occur in the lungs.   ",
+    "hypothesis":"  (1) Non-DES cases of PCCAV may exist. (2)  PCCAV can occur in patients without any additional anomalies. (3)  Menopause may increase the incidence of PCCAV in patients without DES exposure.   "
+  },
+  {
+    "background":" (1)Spontaneous pneumoperitoneum accompanying diabetic ketoacidosis (DKA), as evidenced by CT scan revealing free gas in the periportal area of the porta hepatis and gastric pylorus. (2)  Patient diagnosed with fulminant type 1 diabetes mellitus, indicated by depleted insulin secretion, negative islet-specific autoantibodies, and elevated pancreatic enzymes. (3)  Spontaneous pneumoperitoneum improved with conservative treatment and DKA improved with intravenous fluids and insulin administration.  ",
+    "hypothesis":" (1) Pneumomediastinum migration into the abdominal cavity or air leakage from a detectable pneumomediastinum caused the pneumoperitoneum. (2)  DKA-induced circulatory failure led to non-occlusive mesenteric ischemia (NOMI), which resolved with conventional medical treatment. (3)  Repeated vomiting caused small perforations in the gastrointestinal tract, leading to air leakage.  "
+  },
+  {
+    "background":" (1)The prevalence rate of renal stone disease has increased over the last 3 decades. (2) New technological developments have led to high success rates for kidney stone treatments. (3) Anxiety levels are high in patients scheduled for retrograde intrarenal surgery (RIRS). ",
+    "hypothesis":" (1)Video-based preoperative education can reduce anxiety levels in patients scheduled for RIRS. (2) Video-based education can effectively communicate information to patients. (3) Decreased anxiety levels can lead to better surgical outcomes. "
+  },
+  {
+    "background":"  (1) Indigenous peoples in Canada continue to experience widespread health inequities due to the impacts of colonization. (2)  Systems of health care in Canada exacerbate poor health outcomes, enable health inequities, and erode Indigenous cultural identities through culturally unsafe environments. (3)  The Truth and Reconciliation Commission (TRC) of Canada outlined 94 Calls to Action, which include specific challenges for medical schools to improve Indigenous health outcomes in education, research, and clinical service. ",
+    "hypothesis":"  (1) Dispossession from land is at the heart of Indigenous health inequities, requiring decolonizing approaches to population health. (2)  Indigenous health is a distinct discipline that requires specific knowledge base, skills, and resources to overcome inequities. (3)  Promoting and supporting Indigenous inclusion is essential in transforming leadership within medical schools. "
+  },
+  {
+    "background":" (1)The results of the E-FIT trial combined with the NICHE trial showed no significant difference between active and sham groups in terms of trial outcome measures at baseline. (2) In the E-FIT trial analysis, improvement of 5 or more points from baseline was observed in 60% of patients in the active arm and 50% in the sham arm. (3) Significant improvements were observed in both groups for UEFM, action-research arm test, and EQ-5D, but there were no significant differences between the active and sham groups in the amount of improvement on any outcome. ",
+    "hypothesis":" (1)The use of electric field navigated 1-Hz rTMS combined with motor hand-arm training may improve clinical arm motor status in stroke patients. (2) There may be no advantage of active rTMS over sham rTMS when used as an adjuvant to motor training. (3) The type of sham coil used may not affect the outcome of the treatment. "
+  },
+  {
+    "background":" (1) Women were older and lower educated compared to men. (2) Stroke severity and scores on cognitive decline assessments were higher in women. (3) Different types of infarcts were more common in men.  ",
+    "hypothesis":" (1) There is an association between sex and poststroke cognitive impairment (PSCI). (2) Women are more likely to have impairment in attention, executive functioning, and language domains. (3) Men are more likely to have impairment in verbal memory domain.  "
+  },
+  {
+    "background":" (1)The effect of assessments on student motivation for learning in health professions education was investigated.  (2) Assessments stimulating controlled motivation resulted in higher effort driven by external pressure, surface and strategic learning, undermining of student engagement and learning, feelings of pressure to study, anxiety, frustration, and stress, creation of a \"performance culture\" at the expense of learning and development, and undermining of the learning potential of an assessment program.  (3) Assessments stimulating autonomous motivation led to higher creativity, skill development, fostering of self-regulation, time management skills, mastery learning, and self-directed corrective actions, interest in the topic, a deeper learning approach, increased quality of work, competence, confidence, and performance, improved goal setting and engagement in learning, better error identification and higher effort on practicing clinical skills, increased motivation to spend more time with patients, increased skills and professionalism development, and encouraging students to improve their work.  ",
+    "hypothesis":" (1)Assessments that stimulate controlled motivation may have negative effects on student well-being and engagement in learning. (2) Assessments that stimulate autonomous motivation may have positive effects on student creativity, skill development, and engagement in learning. (3) Different assessment features may influence the type of motivation (controlled or autonomous) that students experience.  "
+  },
+  {
+    "background":"  (1) Undergraduate dental students experience stress during their clinical training. (2)  Female students outnumber male students in the fourth year. (3)  Dealing with uncooperative patients and correct surgical diagnosis are major concerns for students.  ",
+    "hypothesis":"  (1) Increased stress levels affect the performance of undergraduate dental students. (2)  There may be gender disparities in dental student enrollment between different academic years. (3)  Developing strategies to manage uncooperative patients and improve surgical diagnosis skills could alleviate student concerns.  "
+  },
+  {
+    "background":" (1)Only 25% of healthcare providers had adequate knowledge on the management of pre-eclampsia and eclampsia. (2) 56.69% of healthcare providers had a positive attitude towards the management of pre-eclampsia and eclampsia. (3) Working experience of 1-5 years and working in a health center were predictors of inadequate knowledge.  ",
+    "hypothesis":" (1)Healthcare providers with more years of working experience may have better knowledge on the management of pre-eclampsia and eclampsia. (2) Working in a health center may contribute to better knowledge on the management of pre-eclampsia and eclampsia. (3) Attitude is not significantly associated with background characteristics.  "
+  },
+  {
+    "background":"  (1) COPD is a leading cause of morbidity and mortality worldwide. (2)  The prevalence of COPD in England and Scotland has risen over the past decade. (3)  The economic burden of COPD in the UK is substantial, making it one of the most expensive inpatient conditions treated by the NHS. ",
+    "hypothesis":"  (1) Single-inhaler triple therapy (SITT) could be a cost-effective treatment for COPD. (2)  SITT (SITT FF/UMEC/VI) could improve lung function compared to tiotropium (TIO) monotherapy. (3)  SITT could reduce exacerbation rates and improve quality of life in COPD patients. "
+  },
+  {
+    "background":" (1)The HM derivatives H-2-168 and DH-004 exhibited significant antiparasitic effects. (2)  H-2-168 and DH-004 had dose-dependent effects against protoscoleces. (3) H-2-168 and DH-004 caused severe disruption of the parasite ultrastructure. ",
+    "hypothesis":" (1)H-2-168 and DH-004 may be effective candidate compounds for the treatment of cystic echinococcosis (CE). (2)  The therapeutic effects of H-2-168 and DH-004 may be mediated by inducing DNA damage in E. granulosus s.s. (3)  H-2-168 and DH-004 may have improved safety compared to existing drugs. "
+  },
+  {
+    "background":"  (1) LLS donors were younger and had a higher proportion of mothers compared to the LH group.  (2)  Median operative time was significantly shorter in the LLS group.  (3)  Graft weight was lower in the LLS group.   ",
+    "hypothesis":"  (1) Younger age and higher proportion of mothers may contribute to a higher number of LLS donors.  (2)  The shorter operative time in the LLS group may be due to the nature of the procedure.  (3)  The lower graft weight in the LLS group may be attributed to the smaller size of the liver section.  "
+  },
+  {
+    "background":" (1)Trauma is highly prevalent in society, affecting not only patients but also healthcare professionals. (2)  Symptoms of burnout may actually be manifestations of traumatic stress. (3)  There is a statistical and neurobiological relationship between trauma and burnout. ",
+    "hypothesis":" (1) Trauma may be a significant, underrecognized contributor to health worker burnout. (2)  Early adversity and traumatic experiences can lead to trauma and its long-lasting effects. (3)  Chronic, unmanaged stress at work can worsen the symptoms of unmanaged trauma, and vice versa. "
+  },
+  {
+    "background":"  (1) Hospital sinks have been identified as reservoirs of drug-resistant bacteria via a biofilm mechanism. (2)  Several global reports have documented sinks as reservoirs of pan-resistant organisms. (3)  Eight unique carbapenem-resistant bacterial species were identified from various areas of the sink.  ",
+    "hypothesis":"  (1) Hospital sinks in resource-poor African settings may also serve as reservoirs for drug-resistant bacteria. (2)  Sinks may play a role in the transmission of drug-resistant pathogens. (3)  Biofilm formation may contribute to the persistence and spread of drug-resistant bacteria in hospital sinks.  "
+  },
+  {
+    "background":"  (1) Cataract surgery is the only effective treatment for cataracts, which are the leading cause of blindness in adults over 50.  (2)  Surgeons lack temperature control during surgery, resulting in transient drops in ocular temperature. (3)  IOL unfurling can be time-consuming and hinder effective IOL fixation, leading to complications.   ",
+    "hypothesis":"  (1) Direct heating of IOLs prior to injection may accelerate IOL unfurling. (2)  Warmed BSS and/or OVD may also accelerate IOL unfurling. (3)  Solution temperature and spatial constraints may affect IOL unfurling time.  "
+  },
+  {
+    "background":" (1)Japanese hospitalists were involved in the medical care of COVID-19 patients in 91.8% of hospitals surveyed. (2)  Hospitalists were responsible for COVID-19 treatment in over 60% of hospitals. (3)  Hospitalists contributed to hospital management, infection control, and vaccination. ",
+    "hypothesis":" (1) Training of personnel who can provide practical care for emerging infectious diseases is necessary. (2)  The establishment of an infection control system in advance to prepare for emerging infectious diseases in the hospital is necessary. (3)  The establishment of an educational system for responding to emerging infectious diseases is necessary. "
+  },
+  {
+    "background":" (1)TCM has achieved reliable results in COVID-19 prevention and treatment in both Malaysia and China. (2)  The Malaysian Protocol and Chinese Protocol share the same understanding of the core pathogenesis, TCM syndrome, therapeutic principles, and formulas. (3)  The most crucial difference between the Protocols is whether or not the dampness would transform into cold. ",
+    "hypothesis":" (1) The dampness transforming into cold is the cause of the disease in northern China, whereas in southern areas like Guangdong Province and Malaysia, damp-heat trapping the surface and then dampness turning into heat and dryness is the cause of the disease. (2)  The geographical and climatic attributes influence the understanding of the disease between the two countries. (3)  Limited availability of TCM treatment in Malaysia led to the use of classical formulas that can be easily disseminated and applied in the Malaysian Protocol. "
+  },
+  {
+    "background":"  (1) Airway eosinophilia is associated with poor symptom control and airway remodeling in asthma. (2)  Eosinophil activation leads to their recruitment to the airway. (3)  Surface proteins indicate the activation of circulating eosinophils.  ",
+    "hypothesis":"  (1) The priming of eosinophil circulation in asthmatic patients induces a stronger functional response compared to control subjects. (2)  There may be a correlation between surface proteins of circulating eosinophils and asthma features. (3)  Extravasation of activated eosinophils from circulation may explain inconsistent results in eosinophil surface protein studies.  "
+  },
+  {
+    "background":" (1)The patient presented with fever, coughing and expectoration, dizziness, headache, and gait imbalance. ",
+    "hypothesis":" (1)The patient may have a co-infection of Nocardia farcinica and Talaromyces marneffei. "
+  },
+  {
+    "background":" (1)The prevalence of major depressive disorder (MDD) is high globally, affecting roughly 2% of the global population. (2)  The incidence of MDD is increasing over time in China. (3)  Patients with MDD have higher fasting glucose levels compared to non-MDD patients. ",
+    "hypothesis":" (1) Hyperglycemia may be associated with the development and progression of MDD. (2)  Factors such as age, gender, educational background, and disease severity may contribute to the occurrence of hyperglycemia in MDD patients. (3)  Hyperglycemia in MDD patients may have implications for the management and treatment of MDD. "
+  },
+  {
+    "background":" (1)Schizophrenia patients exhibit deficits in emotion perception, particularly in recognizing facial expressions. (2) Patients with schizophrenia make significantly more errors in recognizing surprise, happiness, sadness, fear, and neutral facial expressions compared to healthy controls. (3) Patients with schizophrenia exhibit slower response times compared to healthy controls, particularly in recognizing happiness facial expression. ",
+    "hypothesis":" (1)Deficits in emotion perception contribute to the social cognitive dysfunction observed in schizophrenia. (2) Hypoactivation in multiple inferior parietal and temporal areas, as well as in the cerebrum and anterior cingulate, is associated with impaired emotion perception in schizophrenia. (3) Reduced amygdala activation is related to impaired recognition of fear in facial expressions among individuals with schizophrenia. "
+  },
+  {
+    "background":" (1)The patient, an 84-year-old woman, had a history of radiation therapy for cervical cancer and experienced bladder tamponade due to radiation-induced hemorrhagic cystitis multiple times. (2) At each hospitalization, blood transfusions were performed to treat severe anemia, resulting in the improvement of hematuria. (3) Anemia developed gradually after each discharge, unrelated to macrohematuria.  ",
+    "hypothesis":" (1)Monitoring the serum hemoglobin level could be useful in predicting the occurrence of bladder tamponade. (2) If the serum hemoglobin level does not fall below the physiological range, bladder tamponade would not occur. (3) Treatment of chronic anemia and maintaining serum hemoglobin levels within the physiological range can prevent the recurrence of bladder tamponade.  "
+  },
+  {
+    "background":"  (1) Escherichia coli is a significant cause of bloodstream, urinary tract, gastrointestinal, and respiratory infections worldwide. (2)  The global incidence of E. coli infections is increasing. (3)  The impact of E. coli on bloodstream infections is not as clear as other types of infections.  ",
+    "hypothesis":" (1) There is a growing antimicrobial resistance crisis associated with E. coli infections. (2)  Effective strategies are needed to tackle E. coli infections and their challenges. (3)  Antimicrobial resistance may affect the treatment outcome of E. coli infections.  "
+  },
+  {
+    "background":" (1) Pyroptosis may play an important role in the occurrence of ARDS. (2)  Some immune pathways, such as APC co-inhibition and CCR, are activated in the AMs samples compared to the MONOs sample. (3)  There are differential expressions of HLA between the MONOs and AMs samples. ",
+    "hypothesis":" (1) Pyroptosis and its associated hub PRGs (GPX4, IL6, IL18, and NLRP3) may have implications in the immunoregulation of ARDS. (2)  The activation of immune pathways, such as APC co-inhibition and CCR, in AMs samples may contribute to the pathogenesis of ARDS. (3)  The differential expressions of HLA between the MONOs and AMs samples may be associated with the immune response in ARDS. "
+  },
+  {
+    "background":"  (1) The study aims to investigate the association between patent foramen ovale (PFO) and migraine without aura (MoA). (2)  PFO is more prevalent in patients with MoA compared to the general population. (3)  MoA patients with moderate or large PFO have higher frequencies of headaches, as well as higher headache impact and disability scores. ",
+    "hypothesis":" (1) PFO may play a role in the pathophysiology of MoA. (2)  MoA patients with PFO may experience more severe clinical features associated with their migraines. (3)  Closing PFO in MoA patients may lead to improvements in migraine clinical features. "
+  },
+  {
+    "background":" (1)Breast cancer (BC) account for 24.5% of total number of newly diagnosed cancers in female population in 2020.  (2) ER-positive BC is the most common subtype, accounting for about 80% of all BC cases.  (3) Endocrine therapy, such as tamoxifen (TAM), is a critical treatment for ER-positive BC.   ",
+    "hypothesis":" (1)KIF20A expression may have prognostic value for female patients with ER-positive BC.  (2) High KIF20A expression may be associated with poorer relapse-free survival (RFS), distant metastasis-free survival (DMFS), and overall survival (OS) in ER-positive BC patients receiving TAM therapy.   "
+  },
+  {
+    "background":" (1)Thoracic endovascular aortic repair (TEVAR) is an effective treatment for type B aortic dissection (TBAD). (2) Immature neutrophils are significantly higher in TBAD patients compared to healthy controls. (3) The serum levels of hs-cTnT are moderately higher in TBAD patients who experience aorta-related adverse events (AAEs) during follow-up.   ",
+    "hypothesis":" (1)Total neutrophils, neutrophil-to-lymphocyte ratio (NLR), and percentage of immature neutrophils could serve as diagnostic markers for TBAD. (2) Increased levels of immature neutrophils may contribute to the pathogenesis of TBAD. (3) Elevated serum levels of hs-cTnT after TEVAR may predict the occurrence of AAEs in TBAD patients.  "
+  },
+  {
+    "background":" (1)MRD is common in persons with diabetes, inflammation, or hypertension. (2) MRD is regarded as an independent risk factor for cardiovascular disease in patients with hypertension. (3) Decreased kidney function is associated with a lower hemoglobin level and a higher prevalence of anemia.   ",
+    "hypothesis":" (1)An elevated LCN2 level may be associated with the presence of anemia in patients with MRD. (2) The elevation of LCN2 may affect hematologic parameters, such as hemoglobin levels. (3) There may be a correlation between LCN2 and erythropoietin (EPO) levels.  "
+  },
+  {
+    "background":" (1)Urinary incontinence rates after robot-assisted radical prostatectomy progressively improved at 3 months (30%), 6 months (57.8%), and 12 months (79.3%).  ",
+    "hypothesis":" (1)Membranous urethral length (MUL) and surgical experience could be predictors of urinary incontinence after robot-assisted radical prostatectomy.  "
+  },
+  {
+    "background":" (1)Hepatocellular carcinoma (HCC) is the third most common cause of cancer-related mortality worldwide. (2) Chronic inflammation in the liver is a driving factor in the development of HCC. (3) Immunosuppressive cells, such as Tregs and MDSCs, are recruited by HCC to create an immunosuppressive tumor microenvironment.  ",
+    "hypothesis":" (1)Targeting and modulating the immune system may be an effective approach to treat HCC. (2) Combining immunotherapy with locoregional therapies may result in a synergistic effect. (3) Real-world studies can provide valuable insights into the applicability of clinical trials in diverse patient populations.  "
+  },
+  {
+    "background":"  (1) Alterations in the fecal microbiota composition in children with acute diarrhea were observed.  (2) Bacterial diarrhea symptoms were found to be more severe than viral diarrhea symptoms.  (3) Antibiotics used to treat bacterial diarrhea have been shown to disrupt the gut microbiota.   ",
+    "hypothesis":"  (1) Bacterial community dysbiosis can lead to intestinal diseases.  (2) The pathogenesis of viral diarrhea is still unclear.  (3) Alterations in the fecal microbiota composition may be associated with the severity of diarrhea symptoms.   "
+  },
+  {
+    "background":" (1)Aesthetic female faces have commonalities in facial features regardless of racial demographic. (2) The dimensions of facial features in aesthetically beautiful faces vary from the general population. (3) Cluster analysis showed grouping of facial dimensions using latent space parameters.   ",
+    "hypothesis":" (1)There may be a common human aesthetic proportion that transcends racial boundaries. (2) Shared commonalities within the aesthetic cohort may be the key behind the concept of beauty. (3) Beautiful faces have racial features but also share features that are different from the general population.   "
+  },
+  {
+    "background":"  (1) Pulseless electrical activity (PEA), cardiac arrest, and pericardial tamponade occurred post-PIMSRA. The patient had hypokinetic basal intraventricular septal (IVS) thickness and aggravated systolic anterior motion of the mitral valve after the procedure. (2)  Veno-arterial extracorporeal membrane oxygenation (VA-ECMO) was used as a bridge-to-recovery approach to stabilize circulation. (3)  Pericardiocentesis was performed to drain pericardial effusion under transthoracic echocardiography (TTE) guidance.  ",
+    "hypothesis":"  (1) The PEA cardiac arrest was caused by ablation-related tissue edema at the basal IVS. (2)  The pericardial tamponade was possibly caused by blood leakage associated with puncture hemorrhage. (3)  The use of ECMO as a bridge-to-recovery approach could allow time for the myocardial edema to resolve.  "
+  },
+  {
+    "background":" (1)Circular calcification found below the mitral prosthesis (2) Gap observed between the prosthetic valve and annular tissue and subvalvular calcification (3) Loss of adhesion and adhesive nature of the annular tissue ",
+    "hypothesis":" (1)Circular calcification contributes to late occurrence and recurrence of paravalvular leak (PVL) (2) Protrusion and displacement of the prosthetic valve may lead to PVL (3) Defects in annular tissue affect the occurrence and recurrence of PVL "
+  },
+  {
+    "background":"  (1) Mitral regurgitation may develop or worsen following right ventricular apical pacing.  (2) Pre-existing secondary mitral annular dilation is a well-recognized and important contributing factor. (3) A rare case of pacing-induced torrential mitral regurgitation in the setting of rheumatic mitral valve disease was observed.  ",
+    "hypothesis":"  (1) Right ventricular apical pacing induces or exacerbates mitral regurgitation by introducing dyssynchronous left ventricular contraction. (2) Primary mitral valve lesion can be an antecedent mechanism for pacing-induced torrential mitral regurgitation. (3) Monitoring the progression of mitral regurgitation is crucial in patients with primary mitral valve disease undergoing right ventricular pacing.  "
+  },
+  {
+    "background":" (1)Patients with congenitally corrected transposition of the great arteries (ccTGA) are at risk of developing conduction disease and complete atrio-ventricular block, especially after corrective cardiac surgery. (2)  The patient in this case, a 16-year-old ccTGA female, underwent a double-switch surgery with ventricular septal defect correction. (3)  The patient presented with symptomatic episodes of intermittent complete AV block and a significant drop in mean blood pressure during right ventricular pacing, leading to a decrease in quality of life and physical activity.   ",
+    "hypothesis":" (1) Cardiac resynchronization therapy (CRT) using left bundle branch area pacing (LBBAP) may be a suitable alternative pacing modality for patients with ccTGA and double-switch surgery. (2)  Detailed anatomical and electrical description of the patient's anatomy is important for successful LBBAP implantation. (3)  Mapping-guided approach using a three-dimensional navigation system and customized sheaths may facilitate the identification of the best region for initial lead deployment and avoid scar/patch areas during LBBAP implantation.  "
+  },
+  {
+    "background":" (1) Individuals infected with KSHV had significantly lower CD4+ T-cell counts compared to KSHV-seronegative participants. (2)  Among KSHV-seropositive individuals, HLA alleles HLA-A*31:01, HLA-C*03:04, and HLA-C*12:03 were nominally associated with KSHV infection. (3)  KIR genotyping showed similar frequencies in the KSHV-infected group versus controls. ",
+    "hypothesis":" (1) KSHV infection may lead to decreased CD4+ T-cell counts. (2)  The HLA alleles HLA-A*31:01 and HLA-C*03:04 may have a protective effect against KSHV infection, while HLA-C*12:03 may be a risk allele. (3)  KIR genotypes may not be associated with KSHV infection. "
+  },
+  {
+    "background":" (1)Users in the attention economy frequently experience sudden urges to check specific information sources, even in the absence of perceptual information. (2) Current digital technologies offer limitless sources of novelty. (3) Digital technologies can be navigated effortlessly with simple motor movements and provide action possibilities anywhere and anytime independent of place or context.  ",
+    "hypothesis":" (1)Active inference models can identify problematic structural features of digital technologies. (2) Challenges users encounter when engaging with digital technologies are less related to information overload or enticing content, but more about the continuous availability of easily accessible action possibilities. (3) Motivation and control have an intricate relationship, explaining sudden transitions in motivational state and alterations in action salience.  "
+  },
+  {
+    "background":" (1)The COVID-19 pandemic has resulted in a high number of deaths and misinformation about potential therapies. (2) Vaccines have been developed and have shown effectiveness in preventing serious forms of the disease. (3) Some individuals have engaged in inappropriate self-medication practices for COVID-19. ",
+    "hypothesis":" (1)Enhancing self-medication practices can contribute to managing the infodemic and promoting responsible use of medicines. (2) Pharmacovigilance plays a crucial role in ensuring safe self-medication practices. (3) Improved risk communication can help individuals make informed decisions about self-medication. "
+  },
+  {
+    "background":"  (1) The passing of Andreas Pierratos on November 15, 2022. (2) Andreas' career shift from the Wellesley to Humber. (3) Andreas' innovative approaches in home dialysis, including personal-support-worker-assisted dialysis and provision of hemodialysis in long-term care facilities.  ",
+    "hypothesis":"  (1) Andreas' career shift to Humber allowed him to be equally academically productive in advancing innovation in home nocturnal dialysis. (2) Nocturnal home hemodialysis had beneficial effects on patients' health. (3) Qualified experts making decisions without being constrained by regulations can lead to better patient care and innovation.  "
+  },
+  {
+    "background":" (1)circRNA is considered as a new agent in RNA vaccine and therapeutics (2) circRNA platform is suitable for direct intratumoral administration for cancer therapy (3) ribozyme-based method has advantages over other methods in circRNA preparation, ",
+    "hypothesis":" (1)circRNA can be used as a translatable RNA template for encoding a mixture of cytokines for modulating anti-tumor immune responses (2) circRNA can be used for vaccine development that elicits potent neutralizing antibodies and T cell responses (3) circRNA can be used for diverse biomedical tools like RNA editing, RNA modulating, and as sponges for microRNAs or proteins, "
+  },
+  {
+    "background":" (1)Delayed diagnosis of a non-communicating right uterine horn in a nulliparous woman diagnosed at age 36. (2) Prior evaluation with ultrasound and laparoscopy did not detect the m\u00fcllerian anomaly. (3) Magnetic resonance imaging (MRI) revealed a unicornuate uterus with a right non-communicating rudimentary horn.",
+    "hypothesis":"hypotheses:"
+  },
+  {
+    "background":" (1)The study aimed to develop an adaptation of the Academic Help-Seeking Scale for the Spanish adult population. (2) The exploratory factor analysis suggested that only one factor was underlying the data. (3) The confirmatory factor analysis showed that the factor structure replicated in a different sample. ",
+    "hypothesis":" (1)The adaptation of the scale would have suitable psychometric properties. (2) The scale would demonstrate adequate reliability and convergent validity. (3) The scale would show expected relationships with gender and academic achievement. "
+  },
+  {
+    "background":"  (1) During the process of BMSCs osteogenic differentiation, an increase in RUNX2 expression and a decrease in YTHDC2 expression were observed. (2)  Transfection of BMSCs with YTHDC2 interference fragment resulted in an increased content of RUNX2 mRNA and protein inside BMSCs. (3)  YTHDC2 protein showed decreased expression during BMSCs osteogenic differentiation, while the level of RUNX2 (mRNA and protein) expression inside cells was higher.  ",
+    "hypothesis":"  (1) YTHDC2 inhibits BMSCs osteogenic differentiation by accelerating the degradation of RUNX2 mRNA. (2)  YTHDC2 plays a role in mediating the decay of combined methylated mRNA in BMSCs. (3)  YTHDC2 acts as a negative regulator of RUNX2 expression during BMSCs osteogenic differentiation.  "
+  },
+  {
+    "background":" (1)Existing research aimed at predicting terrorism from a single perspective using contextual information or past attacks of terrorist groups. (2) The proposed integrated deep-learning framework incorporates the background context of past attacked locations, social networks, and past actions of individual terrorist groups. (3) The framework outperforms the conventional base model at different spatio-temporal resolutions and can project future targets of active terrorist groups.   ",
+    "hypothesis":" (1)A deep-learning approach combined with multi-scalar data can provide groundbreaking insights into terrorism and organized violent crimes. (2) Combining the background context of past attacked locations, social networks, and past actions of individual terrorist groups can reveal behavior patterns of terrorist groups. (3) Identifying high-risk areas and providing attack-related information for a specific terrorist group can assist in developing effective counter-terrorism policies.  "
+  },
+  {
+    "background":" (1)Cancer cell membrane-coated upconversion nanoparticles/ZnS core-shell nanoparticles (BUC@ZMS) were developed for tumor-targeted cancer therapy. (2)  BUC@ZMS nanoparticles can elicit the death of pancreatic cancer cells through the high production of reactive oxygen species (ROS). (3)  BUC@ZMS nanoparticles can deplete intracellular glutathione (GSH) and increase the sensitivity of tumor cells to oxidative stress.  ",
+    "hypothesis":" (1) Cancer cell membrane-coated BUC@ZMS nanoparticles may provide a targeted treatment option for pancreatic ductal adenocarcinoma (PDAC). (2)  The high production of ROS induced by BUC@ZMS nanoparticles may contribute to the death of pancreatic cancer cells. (3)  Depletion of GSH by BUC@ZMS nanoparticles may enhance the sensitivity of tumor cells to oxidative stress.  "
+  },
+  {
+    "background":" (1)Microglia activation drives the pro-inflammatory activity in the early stages of Alzheimer's disease (AD). (2) Upon LPS exposure, microglia shift towards an energetic phenotype characterised by high glycolysis and high mitochondrial respiration with dysfunction. (3) The activity of electron transport chain (ETC) complexes is boosted by LPS, mostly devoted to the generation of reactive oxygen species.  ",
+    "hypothesis":" (1)Blocking succinate dehydrogenase (SDH) with dimethyl malonate (DMM) can modulate the LPS-induced metabolic rewiring, facilitating an anti-inflammatory phenotype. (2) DMM improves mitochondrial function directly and by reducing LPS-induced mitochondrial biogenesis. (3) The block of SDH with DMM inhibits the recruitment of hypoxia inducible-factor 1 \u03b1 (HIF-1\u03b1), which mediates the induction of glycolysis and cytokine expression. "
+  },
+  {
+    "background":" (1)Hepatocellular carcinoma (HCC) is a highly prevalent and deadly form of liver cancer. (2) Current surveillance, diagnosis, and treatment methods for HCC have several limitations, including poor detection of early stages, high recurrence rates after surgery, low local tumor control, therapy resistance, and side effects. (3) Nanotechnology research in HCC has gained attention, focusing on improving diagnosis and treatment through enhanced targeting, biocompatibility, controlled releasing, and combination therapies.  ",
+    "hypothesis":" (1)Targeted nanomedicine can overcome the limitations in HCC surveillance, diagnosis, and treatment. (2) Nanomedicine can improve the accuracy of HCC diagnosis and enhance therapeutic outcomes by optimizing targeting, biocompatibility, and controlled drug release. (3) Combining different clinical treatment modalities with nanotechnology-based approaches can lead to more effective management of HCC.  "
+  },
+  {
+    "background":" (1)Partial unilateral lentiginosis (PUL) is a pigmentation disorder characterized by multiple lentigines restricted to the normal skin in a unilateral and segmental pattern. (2) A 35-year-old woman presented with multiple brown macules with a sharp demarcation from the midline of the forehead to the right cheek in a dermatomal distribution. (3) Histopathological results showed increased melanin pigmentation in the basal layer with elongated rete ridges, supporting the diagnosis of PUL. ",
+    "hypothesis":" (1)The dual-wavelength CuBr laser (511 nm and 578 nm) may be an effective treatment for PUL. (2) Interactions between cutaneous vasculature and melanocytes, including the expression of functional VEGF receptor by melanocytes, may affect the development of pigmented lesions. (3) Treating PUL with a combination of 511 nm and 578 nm CuBr laser may result in clinical improvement and increased lightness value (L*) as shown by spectrophotometry. "
+  },
+  {
+    "background":" (1)Considerable progress has been made in cancer drug development in recent decades. (2) Cancer is a major health problem and a leading cause of death worldwide. (3) Significant advances in cancer drug development in recent decades have led to a substantial improvement in 5-year survival rates. ",
+    "hypothesis":" (1)Improving access to cancer medicines can address the challenges faced in low- and middle-income countries. (2) Collaboration between academia, pharmaceutical companies, and governments is necessary to improve access to cancer drugs. (3) Cost reduction, uptake of biosimilars and generics, local manufacturing, public-private partnerships, and strengthening the role of insurance companies are potential strategies to improve access to cancer medicines. "
+  },
+  {
+    "background":" (1)Accidental ingestion or aspiration of dental-related foreign bodies is occasionally observed. The rate of accidental ingestion or aspiration (cases/patients) has been reported as 0.0037%\u20130.0044%, with the majority of cases representing accidental ingestions.1,2 (2) Almost all aspirated dental-related foreign bodies have been successfully removed by bronchoscopy. (3) Blunt foreign bodies \u22642 cm in diameter can be expected to be expelled spontaneously, but sharp foreign bodies may perforate the esophagus or other organs, and may need to be removed by endoscopy or laparotomy. ",
+    "hypothesis":" (1)When a foreign body is seen on chest or abdominal radiographs, accidental aspiration or ingestion of a dental-related foreign body may be suspected. (2)  Medical devices such as vascular embolization coils can produce images similar to a dental-related foreign body on chest or abdominal radiographs. (3)  Dental-related foreign body ingestion or aspiration should be considered in the differential diagnosis when opacities are seen on radiographs. "
+  },
+  {
+    "background":"  (1) Mandibular fractures are the most common form of maxillofacial fractures in children. (2)  Mandibular condylar fractures are the most frequent type of mandibular fracture, accounting for more than 70% of all mandibular fractures in children and adolescents. (3)  Condylar fractures can clinically present as limited ability to open the mouth, malocclusion, facial deformity, and TMJ disorders.  ",
+    "hypothesis":"  (1) Conservative management, including intermaxillary fixation using arch bars and elastic bands, may yield satisfactory results in pediatric patients with bilateral condylar fractures. (2)  Early immobilization and lymphatic and vascular circulation facilitation are critical for treating pediatric bilateral condylar fractures. (3)  Nonsurgical treatment approaches, such as observation or intermaxillary fixation, may lead to acceptable healing of condylar fractures in children.  "
+  },
+  {
+    "background":" (1)No difference observed in the incidence of blood transfusion between the treatment group and the placebo group.  (2) No overall difference in the median number of blood units transfused between groups.  (3) Higher haemoglobin concentration observed in patients receiving i.v. iron compared with the placebo group at 6 weeks after intervention.   ",
+    "hypothesis":" (1)Administration of i.v. iron may reduce the amount of blood transfused in younger patients.  (2) The use of i.v. iron is associated with increased haemoglobin concentrations 6 weeks after the operation.   "
+  },
+  {
+    "background":"  (1) KOA rabbits showed impaired mobility, atrophy of thigh muscles, and palpable fibrocords at the tendon attachment. (2)  Cartilage degeneration was observed in KOA rabbits, characterized by thinner cartilage, defective cartilage surface, necrotic and decreased chondrocytes, and lack of Safranine O staining. (3)  Collagen II content in the superficial and middle layers of cartilage was significantly decreased in KOA rabbits.  ",
+    "hypothesis":"  (1) EA intervention could alleviate knee pain, swelling, and improve knee dysfunction in KOA rabbits. (2)  EA could reduce proteoglycan degradation in cartilage and improve cartilage morphology in KOA rabbits. (3)  EA might improve mitochondrial morphology and function in KOA chondrocytes.  "
+  },
+  {
+    "background":"  (1) A comprehensive analysis was conducted to evaluate the aroma and taste profiles of different parts of the wampee fruit. (2)  The aroma profile was analyzed using E-nose, and 67 volatile components were identified through HS-SPME-GC-MS. (3)  The taste profile and representative compounds were analyzed using E-tongue and HPLC, and 12 compounds were identified as important taste contributors based on taste activity value.  ",
+    "hypothesis":" (1) Different parts of the wampee fruit have distinct aroma and taste properties. (2)  The aroma profile is influenced by a variety of volatile compounds present in the fruit. (3)  The taste profile is influenced by specific compounds that contribute to the overall taste perception of the fruit.  "
+  },
+  {
+    "background":" (1)Developing nations use contemporary competition laws based on international models for reasons ranging from achieving international legitimacy to achieving domestic economic objectives. (2) Effective enforcement requires a positive link between the passed laws and the nation's pre-existing legal systems. (3) The globalization of national competition laws is responsible for the existence of modern competition law.  ",
+    "hypothesis":" (1)To achieve their economic goals, developing nations need to effectively implement competition laws. (2) The adoption of international soft law contributes to the development of competition law. (3) Addressing the long-term difficulties faced by competition regimes in Pakistan and China is crucial for successful implementation.  "
+  },
+  {
+    "background":"  (1) Financial development and innovation are positively correlated. (2) Trade, institutional quality, human capital, and financial development promote innovation. (3) Foreign direct investment has a negative effect on innovation.  ",
+    "hypothesis":"  (1) Financial development supports innovation as an outcome and a means of promoting economic expansion. (2) Innovation is necessary for the internationalization of businesses and economies. (3) The financial system contributes to the continuation of technological innovation programs and efficiency.  "
+  },
+  {
+    "background":" (1)Vibrio alginolyticus FA2 is a halophilic bacterium with superior growth capability. (2)  Introduction of the N-acetylglucosamine (GlcNAc) pathway into V. alginolyticus FA2. (3)  Knocking out seven nag genes to obstruct GlcNAc utilization and introducing 16 exogenous gna1s to strengthen GlcNAc pathway flux.  ",
+    "hypothesis":" (1) V. alginolyticus FA2 can be used as a biotechnological platform for sustainable and eco-friendly open fermentation with seawater. (2)  Fine-tuning promoter strength of the two genes and inactivating two genes alsS and alsD can further enhance GlcNAc production. (3)  Unsterile open fermentation using simulated seawater and a chemically defined medium can result in the production of GlcNAc.  "
+  },
+  {
+    "background":" (1)Real-time monitoring of mask wearing is necessary for preventing the spread of the COVID-19 virus.  (2) YOLO detectors face challenges including improving robustness against occlusion, scale variation, handling false detection and false negative, and maintaining a balance between higher precision and faster inference time.  (3) The proposed IYOLO-NL model achieves 98.8% accuracy while maintaining 130 FPS.   ",
+    "hypothesis":" (1)Improved You Only Look Once and None Left (IYOLO-NL) model can enhance real-time mask wearing detection.  (2) The novel CSPNet-Ghost and SSPP bottleneck architecture can contribute to the lightweight design of IYOLO-NL.  (3) The proposed PANet-SC with a multi-level prediction scheme can prevent missed correct results.   "
+  },
+  {
+    "background":" (1)47.2% of the participants were anemic. (2)  The overall prevalence of thrombocytopenia was 67.7%. (3)  Being female, having the A blood group, and being infected with P. falciparum were significantly associated with malaria anemia. (4)  Thrombocytopenia was significantly associated with P. falciparum infection and high parasitemia levels.  ",
+    "hypothesis":" (1) Patients with malaria who belonged to the \"A\" blood group are more likely to experience anemia. (2)  The prevalence of thrombocytopenia is higher in patients with P. falciparum infection and high parasitemia levels.  "
+  },
+  {
+    "background":" (1) The study aimed to use convolutional neural network (CNN) to recognize the observed anatomical positions of the airway under bronchoscopy. (2)  A total of 1527 bronchoscopic images of 200 patients with nine anatomical positions of the airway were used for supervised machine learning and training. (3)  The mean accuracy of recognizing these nine positions was 91%, with the carina and right main bronchus showing the highest accuracy of 98%.  ",
+    "hypothesis":" (1) AI technology can be used to distinguish the normal anatomical positions of the airway under bronchoscopy. (2)  The trained model can accurately extract the bronchoscopic images of normal anatomical positions from bronchoscopic videos. (3)  Utilizing CNN algorithms can help in standardizing data collection and control quality in bronchoscopy.  "
+  },
+  {
+    "background":" (1)Online travel sites\u2019 affordances have a greater influence on tourists' online purchase intentions compared to technology readiness. (2) The interactivity and stickiness of online travel sites\u2019 affordances significantly impact online purchase intentions. (3) Only the innovativeness of technology readiness has a positive effect on online purchase intentions.  ",
+    "hypothesis":" (1)Online travel sites\u2019 affordances positively influence tourists' online purchase intentions. (2) Technology readiness positively influences tourists' online purchase intentions. (3) Trust moderates the relationship between online purchase intentions and e-loyalty.  "
+  },
+  {
+    "background":" (1) Ginger postharvest residues (shoot, finger, slice, and trunk) showed similar phenolic compound contents and antioxidant capacities to rhizome, while root and rootlet residues did not.",
+    "hypothesis":" (3)  Residues with higher contents of starch grains (shoot, finger, slice, and trunk) had higher contents of phenolic compounds with antioxidant capacity, while residues with higher contents of crude fiber and ash showed low antioxidant capacity."
+  },
+  {
+    "background":" (1)Double stack multileaf collimators (MLCs) have new facets in their calibration. (2) Leaf positions were evaluated from four cardinal angles with test patterns at measurement positions throughout the radiation field on EBT3 radiochromic film for each single stack. (3) The resulting double stack mean accuracy for all angles was 0.2 \u00b1 0.1 mm for X1 (left bank) and 0.2 \u00b1 0.2 mm for X2 (right bank).  ",
+    "hypothesis":" (1)Establishing a radiation-based leaf-individual calibration (LIMCA) method for double stack MLCs improves treatment accuracy. (2) Small MLC leaf position errors can lead to significant dose errors for small quadratic fields. (3) Single stack position accuracy is crucial for highly modulated treatment plans. "
+  },
+  {
+    "background":" (1)Apoptotic cells in damaged sites send signals to surrounding cells. (2) Factors secreted from peripheral nerves near amputated limbs are required for blastema formation. (3) Wound epithelia in amputated limbs secrete MARCKS-like proteins that trigger blastema proliferation. ",
+    "hypothesis":" (1)Neuroprojection-independent regeneration may occur in tissue repair. (2) The tachykinin receptor TkR86C may play a role in disc repair. (3) Induced TkR86C in injured wing discs can affect regeneration. "
+  },
+  {
+    "background":" (1)The study investigates the therapeutic effects of Alt a 1 and A. alternata extracts on allergic inflammation in mice. (2) Alt a 1-SCIT effectively suppresses IgE responses and improves lung pathology. (3) Alternaria-SCIT decreases the expression of T follicular helper cells and cytokine-related Tfh subtypes.   ",
+    "hypothesis":" (1)Alt a 1 and A. alternata extracts have beneficial effects on allergic inflammation. (2) Alt a 1-SCIT may have superior therapeutic effects in decreasing Bcl-6 expression. (3) Alternaria-SCIT might be more likely to suppress the expression of Tfh cells and cytokine-related Tfh subtypes compared to Alt a 1-SCIT.   "
+  },
+  {
+    "background":"  (1) MRGD reduced the levels of inflammatory factors expression and inhibited the nuclear translocation of NF-kB P65, reducing the inflammatory response in vivo and in vitro.  (2)  MRGD inhibited mitochondrial dysfunction, mitochondrial oxidative stress, and mitochondrial pathway apoptosis by maintaining mitochondrial structure and function.  (3)  MRGD increased the expression of SIRT1 and promoted mitochondrial biogenesis ability through the SIRT1/PGC-1a pathway.  ",
+    "hypothesis":"  (1) MRGD may alleviate liver injury by activating Nrf2 signaling pathway and inhibiting NF-kB activation.  (2)  MRGD may play a key role in promoting mitochondrial function and alleviating hepatocyte apoptosis.  (3)  MRGD may regulate mitochondrial dynamics and activate Nrf2.  "
+  },
+  {
+    "background":" (1)Traditional implants made of metal or inert materials are not absorbable. (2) Complications such as loosening, displacement, or breakage of metal implants can affect patient prognosis and increase the risk of reoperation. (3) Metal implants can interfere with follow-up imaging examinations. ",
+    "hypothesis":" (1)Absorbable materials with excellent mechanical properties, good biocompatibility, and controlled degradation rates can address the complications caused by non-absorbable implants. (2) Absorbable materials can provide stable mechanical support without irritating soft tissues or causing pain and discomfort. (3) Absorbable materials can allow for proper movement and avoid damage to cartilage within the joint cavity. "
+  },
+  {
+    "background":" (1) The paper examined the quotations to the neuroimaging meta-analysis guideline \"Ten simple rules for neuroimaging meta-analysis\" by M\u00fcller et al. (2) A total of 804 quotations of the guideline were found in 384 papers. (3) The most frequently referred rules were the power of the meta-analysis, the consistency of the search coverage and reference space, and the statistical threshold. ",
+    "hypothesis":" (1) Quotations to the guideline were made based on their relevance to the researchers' studies. (2) Some researchers may have misinterpreted or oversimplified the original notion of the guideline. (3) Quotation errors might occur due to failure in substantiating assertions or unrelated quotations. "
+  },
+  {
+    "background":" (1)The axillary artery can be compressed by the humeral head due to overhead motions such as pitching, spiking, and serving in sports like baseball and volleyball. (2) Repeated overhead motion can cause microdamage to the endothelium, leading to thrombus and aneurysm formation in severe cases. (3) Symptoms of peripheral arterial thrombosis secondary to a thrombus in a branch of the axillary artery include coldness, numbness, pain in the fingers, fatigue, and scapular pain.  ",
+    "hypothesis":" (1)Overhead spike and serve in volleyball, with changing point of impact and increased external rotation, may increase the likelihood of PCHA pathological lesions. (2) Damage to the endothelium of blood vessels from repetitive abduction and external rotation can lead to thrombus and aneurysm formation in the axillary artery. (3) PCHA pathological lesions resulting from overhead sports activities are most frequently seen in individuals who play volleyball, followed by those who play baseball.  "
+  },
+  {
+    "background":" (1)Significant differences were found between the recurrence and non-recurrence groups in terms of age, diabetes mellitus, homocysteinemia, artery-artery embolism (AAE) infarction, prominent enhancement, and surface irregularity of the culprit plaque.  ",
+    "hypothesis":" (1)The presence of obvious enhancement in the culprit plaque on high-resolution magnetic resonance vessel wall imaging (HR-MR-VWI) is a valuable factor in predicting stroke recurrence in intracranial atherosclerotic stroke within the middle cerebral artery (MCA) territory.  "
+  },
+  {
+    "background":" (1)Resistance development to bioinsecticides in mosquitoes has been documented in various mosquito vectors, including Aedes aegypti. ",
+    "hypothesis":" (1)Continuous selection pressure with bioinsecticides can lead to changes in susceptibility levels in mosquito larvae. "
+  },
+  {
+    "background":" (1)The study aimed to develop and produce lacosamide-loaded niosomes coated with chitosan (LCA-CTS-NSM) for brain targeting. (2) The optimal formulation of LCA-CTS-NSM exhibited a vesicle size of 194.3 nm, entrapment efficiency of 58.3%, a zeta potential of +35.6 mV, and cumulative release of 81.3% in 8 hours. (3) The LCA-CTS-NSM formula demonstrated sustained release behavior, enhanced nasal diffusion, improved physical stability, and significantly increased brain distribution compared to the drug solution. ",
+    "hypothesis":" (1)The use of lacosamide-loaded niosomes coated with chitosan can effectively target the brain for controlling partial-onset seizures. (2) Optimizing the formulation parameters, including the amount of Span 60, chitosan concentration, and cholesterol amount, can enhance vesicle size, encapsulation efficiency, and release properties. (3) Nasal administration of LCA-CTS-NSM can serve as a non-invasive alternative to oral or parenteral routes for lacosamide delivery in epilepsy management. "
+  },
+  {
+    "background":"  (1) Androgenized female rats (SHAM) showed an increase in trabecular bone mass with a diminution in bone resorption (CTX) and a decrease in cortical area and thickness in the femur.  (2)  The strength of the femur in androgenized female rats (SHAM) was reduced on the mechanical test.  ",
+    "hypothesis":"  (1) Polycystic ovary syndrome (PCOS) may lead to a reduction in cortical thickness and cortical area in rats.  (2)  Despite increased trabecular formation, the reduction in cortical thickness and area may result in a decreased strength of the femur in PCOS model rats.  (3)  Ovariectomy in androgenized rats may limit the progression rate of cortical bone loss and maintain bone resistance and cortical thickness.  "
+  },
+  {
+    "background":" (1)Sleep disruption and pain have a bidirectional relationship. (2) Subjects with knee OA experience greater pain intensity. (3) Reduced sleep duration affects a large percentage of individuals with knee OA. ",
+    "hypothesis":" (1)Sleep disturbance contributes to augmented central pain processing. (2) Sleep disturbance is associated with increased pain manifestation in knee OA. (3) Sleep disturbance is linked to metabolic syndrome and mental health conditions in knee OA patients. "
+  },
+  {
+    "background":" (1)CuInSe2 thin films deposited on ITO coated glass substrate using electrochemical deposition technique with different potential and pH parameters. (2)  X-ray diffraction (XRD) measurements show prominent reflections of tetragonal CuInSe2. (3)  Films electrodeposited at -0.8 V potential exhibit growth and peak values increasing in the (204/220) crystal direction within a pH range of 2.2, while films electrodeposited at pH 2.6 tend to favor an increase in (112) peaks. ",
+    "hypothesis":" (1) The growth and peak values in the (204/220) crystal direction are influenced by the electrodeposition potential. (2)  The increase in (112) peaks is influenced by the pH of the electrodeposition solution. (3)  The surface morphology and adherence of the CuInSe2 thin films are improved at -0.8 V potential with pH 2.6 solution. "
+  },
+  {
+    "background":" (1)RDs are serious, chronic, and life-threatening conditions that receive insufficient attention from drug developers. (2) Developing products for RDs is complicated due to multiple factors including governmental, pharmaceutical, and social considerations. (3) Legislations and policies have been established to encourage research and development of ODs for treating RDs, but their implementation is inconsistent worldwide. ",
+    "hypothesis":" (1)The limited patient population and low commercial profitability hinder the development of drugs for RDs. (2) Financial and non-financial incentives can drive the research and development of ODs for RDs. (3) The variable prevalence thresholds set for RDs may not comprehensively address diseases neglected by pharmaceutical companies. "
+  },
+  {
+    "background":" (1)Flow cytometry has been considered as an alternative method for evaluating natural whey starter cultures. (2) Bacterial enumeration by plate counting and flow cytometry on natural whey samples were compared. (3) Flow cytometry results showed positive agreement with plate counting, but tended to overestimate the bacterial count.  ",
+    "hypothesis":" (1)Flow cytometry can provide a rapid and accurate method for bacterial enumeration in natural whey starter cultures. (2) Flow cytometry can be used to assess the health status of the thermophilic acidifying bacteria community in the cheesemaking process. (3) Flow cytometry can measure physiological parameters, such as cell-wall damage and metabolic activity, which can indicate sub-optimal physiological conditions in the cells.  "
+  },
+  {
+    "background":" (1) Dietary supplementation of different levels of b-hydroxyb-methylbutyrate (HMB) had varied effects on the composition of fatty acids in the breast and leg muscles of broiler chickens. (2)  The supplementation of 0.10% HMB decreased the monounsaturated fatty acid (MUFA) content and increased the sum of saturated fatty acids (SFA) in the breast muscle. (3)  The supplementation of 0.10% and 0.15% HMB increased the MUFA content and decreased the polyunsaturated fatty acid (PUFA) content in the leg muscle.  ",
+    "hypothesis":" (1) Dietary supplementation of HMB affects the expression of genes related to lipid metabolism in the muscles of broiler chickens. (2)  Dietary supplementation of HMB influences the activity of enzymes involved in lipid metabolism in the muscles of broiler chickens. (3)  The effects of dietary HMB supplementation on the composition of fatty acids in muscle tissues may vary depending on the muscle type.  "
+  },
+  {
+    "background":" (1)The prevalence of recurrent angioedema in patients referred for ACEI/ARB-induced bradykinin angioedema after 6 months of drug discontinuation is 41%. ",
+    "hypothesis":" (1)ACEI/ARB-induced bradykinin angioedema is overdiagnosed in patients referred for acquired angioedema without wheals occurring during ACEI/ARB therapy. "
+  },
+  {
+    "background":"  (1) The study found that there was excessive use of antibiotics for patients with acute upper respiratory infections (AURIs) and acute bronchitis, and underuse for patients with community-acquired pneumonia (CAP). (2)  Only one-fifth of patients with AURIs or acute bronchitis who received antibiotics were prescribed with antibiotics that were recommended by the Chinese guideline. (3)  Second- and third-generation cephalosporins were the most commonly prescribed antibiotics, despite not being recommended for treatment of AURIs or acute bronchitis.  ",
+    "hypothesis":"  (1) Antibiotic prescribing for AURIs and acute bronchitis is influenced by factors such as geographic region and age, leading to inappropriate use. (2)  Lack of adherence to guidelines and limited knowledge among healthcare providers contribute to the excessive use of antibiotics for AURIs and acute bronchitis. (3)  Limited access to diagnostic tools and tests to confirm bacterial infections may contribute to the overuse of antibiotics for AURIs and acute bronchitis.  "
+  },
+  {
+    "background":" (1)Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is an RNA virus that causes COVID-19. (2) There have been numerous case reports on new-onset autoimmune diseases (ADs) following COVID-19, affecting various systems in the body. (3) Viral infections, including SARS-CoV-2, have been associated with the development of autoimmune diseases through mechanisms like molecular mimicry and cytokine release syndrome. ",
+    "hypothesis":" (1)COVID-19 can trigger the onset of autoimmune diseases due to viral-induced autoimmunity. (2) SARS-CoV-2 infection may disrupt the immune responses and lead to intolerance to self-antigens. (3) Diminished and dysfunctional T-regulatory cells may contribute to the development of autoimmune phenomena in severe COVID-19 patients. "
+  },
+  {
+    "background":"  (1) Patients with chronic insomnia (CI) exhibit lower nodal efficiency in cerebellar lobule VIIb and vermis regions, but higher nodal efficiency in the right cerebellar lobule VIIIa regions. (2)  Patients with CI show a lower normalized clustering coefficient compared to healthy controls (HCs). ",
+    "hypothesis":"  (1) Abnormal nodal efficiency in cerebellar lobule VIIb and vermis regions may contribute to sleep disturbances in CI. (2)  Altered normalized clustering coefficient suggests disrupted connectivity within the cerebellum in CI. "
+  },
+  {
+    "background":"  (1) The study examined neural sensitivity and autonomic arousal in infants aged 6 and 12 months. (2)  Perceptual sensitivity was assessed using event-related potentials (ERP) in auditory and visual tasks. (3)  Autonomic arousal was measured through heart rate changes.  ",
+    "hypothesis":"  (1) Environmental sensitivity has a bivalent effect on individuals, predisposing them to both risk-inducing and development-enhancing influences. (2)  Bottom-up neural perceptual sensitivity is domain-general across auditory and visual domains. (3)  Neural sensitivity and autonomic arousal are correlated in infants aged 6 months, but not in those aged 12 months.  "
+  },
+  {
+    "background":"  (1) Malondialdehyde (MDA) is a frequently measured biomarker of oxidative stress in plasma and serum.  (2) L-Arginine (Arg) is the substrate of nitric oxide synthases (NOS). (3) Gas chromatography-mass spectrometry (GC\u2013MS) and gas chromatography-tandem mass spectrometry (GC\u2013MS/MS) are used for the quantitative determination of MDA and Arg/NO metabolites in clinical studies.  ",
+    "hypothesis":"  (1) Measurement of MDA and Arg/NO metabolites in biological samples requires addressing pre-analytical challenges. (2) The long-term oral administration of L-arginine dihydrochloride may impact patients with peripheral arterial occlusive disease (PAOD) or coronary artery disease (CAD). (3) Alternative measures, such as urine samples, can be used to measure MDA.  "
+  },
+  {
+    "background":" (1)Medication errors significantly burden healthcare systems, providers, and patients. (2) Automated dispensing systems (ADS) have been observed to reduce workload and work-related stress by around 21.8% in outpatient pharmacies. (3) The use of robotics in healthcare facilities has been proposed as a solution to staff shortages and improving pharmaceutical services.  ",
+    "hypothesis":" (1)Implementing pharmacy automation and robotics can reduce medication errors and save time and effort. (2) Automation can free up time for staff to provide patient-centered services and reduce the chances of dispensing errors. (3) Pharmacy technician and assistant roles can be expanded with appropriate competency assessments in the ADS strategy.  "
+  },
+  {
+    "background":" (1)EUROSPINE, the Spine Society of Europe, has been the driving force for spine care in Europe and beyond for the past 25 years. (2) EUROSPINE aims to optimize patient care and prevention of spinal disorders through lifelong learning, research opportunities, and quality assurance activities. (3) The history of EUROSPINE began with the founding of the European Spinal Deformity Society (ESDS) and the European Spine Society (ESS).  ",
+    "hypothesis":" (1)Combining the efforts of ESDS and ESS has strengthened the development and impact of spine care in Europe. (2) EUROSPINE's focus on lifelong learning and research has led to advancements in spinal disorder prevention and treatment. (3) The establishment of Spine Tango registry and Patient Line has enhanced the effectiveness of spine care and improved patient outcomes.  "
+  },
+  {
+    "background":" (1)PPFIBP1 is highly expressed in the plasma cells from MM patients and higher PPFIBP1 expression predicts poorer outcomes. (2)  PPFIBP1 enhances chemoresistance of MM cells to the treatment of bortezomib (BTZ). (3)  PPFIBP1 directly binds and stabilizes RelA, promotes the cyto-nuclear translocation of RelA, and activates the NF-\u03baB signaling pathway.   ",
+    "hypothesis":" (1) PPFIBP1 is a crucial regulator of chemoresistance to PIs in MM cells. (2)  Targeting PPFIBP1 can alter chemosensitivity of MM cells to BTZ. (3)  Targeting PPFIBP1 can overcome chemoresistance by inhibiting NF-\u03baB signaling pathway.  "
+  },
+  {
+    "background":" (1)PIK3CA mutation is significantly associated with a lower pathological complete response (pCR) rate in HER2-positive breast cancer patients receiving neoadjuvant anti-HER2 therapy. (2) PIK3CA mutation status has been found to be correlated with various clinical outcomes in HER2-positive breast cancer, including disease-free survival (DFS), invasive DFS, objective response rate (ORR), progression-free survival (PFS), time-to-progression (TTP), and overall survival (OS) in different treatment settings. (3) The TCGA breast cancer dataset reveals the mutational landscape of HER2-positive breast cancer based on PIK3CA mutation status. ",
+    "hypothesis":" (1)PIK3CA mutation may serve as a predictive biomarker for the response to anti-HER2 therapy in HER2-positive breast cancer patients. (2) PIK3CA mutation status may impact the effectiveness of anti-HER2 therapy and influence clinical outcomes in HER2-positive breast cancer patients across different treatment settings. (3) The presence of PIK3CA mutation may be associated with a higher risk of treatment resistance and poorer prognosis in HER2-positive breast cancer patients. "
+  },
+  {
+    "background":" (1) Diffuse endobronchial nodules are rare in children. (2) The patient had poor growth, recurrent wet cough, and self-limiting febrile illnesses. (3) The bronchoscopy revealed numerous endobronchial mucosal nodules consisting of dense lymphoid infiltrates.",
+    "hypothesis":" (1) The diffuse endobronchial nodules could be a respiratory manifestation of activated phosphatidylinositol 3-kinase delta syndrome (APDS). (2) Actinomycosis might contribute to the pathogenesis of the endobronchial nodules. (3) APDS and actinomycosis could play a combined role in the development of the nodules."
+  },
+  {
+    "background":" (1)Renal tubular injury, oxidative stress, and cell apoptosis increased in diabetic mice. (2) The peroxisomal phenotype was \"ghost\" in diabetic mice. (3) DsbA-L expression decreased in renal tubules of patients with DN.  ",
+    "hypothesis":" (1)DsbA-L may play a role in ameliorating tubular injury in DN. (2) The peroxisomal function may be improved by DsbA-L. (3) DsbA-L may regulate the activity of catalase.  "
+  },
+  {
+    "background":"  (1) Dust storm incidence has increased over the last several decades within the United States, especially in the southwestern region due to climate aridity and increasing drought prevalence.  (2)  Few population-level epidemiologic studies have been conducted in the U.S. on dust storms. (3)  Dust storms are increasing in frequency and correlate with adverse health outcomes.  ",
+    "hypothesis":"  (1) The limited spatio-temporal coverage, resolution, and accuracy of current data sets hinder the study of dust storms in the U.S. (2)  Publicly available data products may offer improved exposure metrics for large-scale population studies of dust storms. (3)  CAMS and the NWS storm database may have stronger associations with the \"gold standard\" dust data set compared to other data products.  "
+  },
+  {
+    "background":" (1)Asymptomatic duodenal penetrations can be managed conservatively. (2) Most patients with asymptomatic duodenal penetrations have undergone removal of the IVC filter. (3) Progressive erosion through the IVC wall has been reported in some cases over time. ",
+    "hypothesis":" (1)Conservative management can be a successful approach for asymptomatic duodenal penetrations. (2) Removal of the IVC filter may prevent progressive erosion through the IVC wall. (3) Symptomatic duodenal penetration may require endoscopic evaluation and intervention. "
+  },
+  {
+    "background":" (1)Medication-related issues were the most common pre-discharge complications, accounting for more than 50% of identified intervention opportunities. (2)  More than half of the included patients experienced at least one documented outpatient complication post-discharge with peripherally inserted central catheter-line-related complication (20.7%) being the most common issue. (3)  A multidisciplinary OPAT/COpAT program located in a high social vulnerable area can help reduce complications related to a patient's antimicrobial therapy.  ",
+    "hypothesis":" (1)Implementation of a designated pre- and post-discharge OPAT/COpAT program could reduce medication-related issues and outpatient complications. (2)  Use of a multidisciplinary ID team in an OPAT/COpAT program can improve the transition of care for patients requiring antimicrobial therapy. (3)  The implementation of a multidisciplinary ID team-run OPAT/COpAT program can lead to cost savings.  "
+  },
+  {
+    "background":" (1)The study evaluated the effect of a new multimodal analgesia regimen for cardiac surgery. (2) The study compared the analgesia efficacy of the new regimen with a conventional sufentanil-based regimen. (3) The study did not involve nerve blocks or other components of ERACS.  ",
+    "hypothesis":" (1)Multimodal analgesia regimen by paracetamol, gabapentin, ketamine, lidocaine, dexmedetomidine, and sufentanil could provide effective analgesia for cardiac surgery. (2) Nerve block as an additional component of multimodal analgesia could further enhance its effectiveness. (3) The application of Enhanced Recovery After Cardiac Surgery (ERACS) protocols, including nerve block, may improve analgesia outcomes in cardiac surgery.  "
+  },
+  {
+    "background":" (1)Scholarly doctors require research knowledge and skills, as well as an academic mindset (Bildung) including curiosity, creativity, and critical thinking. (2)  Assessment of the development of an academic mindset in scholarly projects is challenging in a fair way. (3)  Objectivity is often considered a prerequisite for achieving fairness in assessment in higher education.  ",
+    "hypothesis":" (1) Focusing solely on objective assessment of knowledge and skills may hinder the development of a true academic mindset. (2)  Prioritizing fairness through standardized procedures may result in a lack of individual growth and potential in scholarly projects. (3)  Shifting from pure objectivity to a combination of objectivity and subjectivity in assessment may protect fairness and promote the development of an academic mindset.  "
+  },
+  {
+    "background":" (1)Pericardial masses are a heterogenous group with various etiologies. (2) Mycobacterium paragordonae is an emerging pathogen associated with pulmonary disease, vertebral infection, and peritonitis. (3) Non-tuberculous mycobacteria (NTM) are rarely associated with cardiac diseases, especially pericarditis.  ",
+    "hypothesis":" (1)The patient's pericardial masses may be caused by infection with M. paragordonae. (2) The pericardial masses could be granulomatous in nature. (3) The hypothyroidism and dyslipidemia in the patient's medical history may have contributed to the development of pericarditis.  "
+  },
+  {
+    "background":" (1)MiRNAs have been shown to be potential cancer biomarkers that can be used to diagnose gastrointestinal cancers. (2)  Dysregulation of miRNAs occurs in a variety of malignancies, including gastric cancer, colorectal cancer, and esophageal cancer. (3)  MiRNAs are stable and protected against degradation by RNase, enabling their detection in tissues and biological fluids.  ",
+    "hypothesis":" (1) MiRNAs can be used as diagnostic markers for early detection, prognosis, and evaluation of treatment effectiveness in gastrointestinal cancers. (2)  Specific miRNA expression patterns can differentiate cancer patients from healthy individuals. (3)  Dysregulation of miRNAs in cancer cells is a result of disrupted miRNA biogenesis, epigenetic and genomic alterations.  "
+  },
+  {
+    "background":" (1)Microglia in brain I/R injury release various inflammatory mediators and cytotoxic substances, including TNF-\u03b1, IL-1, and MMPs. (2)  MMP9 and TIMP1 act in a coordinated fashion to regulate pathological processes, with the imbalance between them being a key factor in ischemic stroke. (3)  Ursolic acid (UA) has been shown to have anti-inflammatory properties and maintain the MMP/TIMP balance in the rat MCAO/R model.  ",
+    "hypothesis":" (1) UA may reduce neuronal damage by reversing the imbalance in MMP/TIMP caused by activated microglia in brain I/R injury. (2)  Recombinant MMP9 treatment or TIMP1 neutralization may affect the effects of UA on neuronal damage. (3)  The neuroprotective effects of UA may be linked to its ability to suppress microglial inflammation.  "
+  },
+  {
+    "background":"  (1) Acne necrotica is a rare disease characterized by recurrent crops of inflammatory papules and papulo-pustules that rapidly become necrotic, leaving varioliform scars of varying extent. (2)  The disease affects more females than males and generally begins in the fourth and fifth decades of life. (3)  The lesions generally present as grouped, erythematous papules and papulo-pustules that are umbilicated and develop central necrosis within a few days, followed by an adherent hemorrhagic crust.  ",
+    "hypothesis":" (1) Acne necrotica may be caused by an abnormal inflammatory response to pathogens such as Cutibacterium acnes (formerly called Propionibacterium acnes), Malassezia species, Demodex folliculorum, and in severe cases, Staphylococcus aureus. (2)  The disease may have a variable clinical course, with some cases resolving spontaneously while others have a chronic relapsing course. (3)  Anti-inflammatory drugs, such as topical mometasone furoate cream and doxycycline tablets, may be effective in treating acne necrotica.  "
+  },
+  {
+    "background":" (1)Psoriasis is associated with an increased risk of developing bullous pemphigoid and is often present before the diagnosis of bullous pemphigoid. (2)  Conventional and biologic antipsoriatic treatments may be ineffective or even induce bullous pemphigoid. (3)  Dimethylfumarate treatment resulted in clearance of both psoriasis and bullous pemphigoid in an elderly patient. ",
+    "hypothesis":" (1) Chronic psoriatic inflammation may cause pathological changes in the basement membrane zone, leading to antigenicity and subsequent development of bullous pemphigoid. (2)  Dimethylfumarate may have pleiotropic effects, inhibiting the recruitment of neutrophils and monocytes into the skin, thus providing effective treatment for psoriatic patients with bullous pemphigoid. (3)  The use of risankizumab in psoriatic patients after discontinuation of dimethylfumarate may prevent relapses of both psoriasis and bullous pemphigoid. "
+  },
+  {
+    "background":" (1)Pediculosis has been reported in all countries and socio-economic classes. (2) Patients with Pthirus pubis may be misdiagnosed due to the small size and translucent nature of their nits. (3) Three cases of Pthirus pubis infection involving different body sites, including the eyelashes, axillary region, and head, were observed. A large number of eggs and adult pubic lice were seen under dermoscopic observation.   ",
+    "hypothesis":" (1)Dermoscopy can be an effective tool for diagnosing Pthirus pubis. (2) Patients may be misdiagnosed with other conditions, such as conjunctivitis or dermatosis, due to atypical symptoms. (3) Pthirus pubis can migrate to different body sites from the genital areas.   "
+  },
+  {
+    "background":" (1) Patients with chronic obstructive pulmonary disease (COPD) had a mean age of 75.48 \u00b1 9.49, 55.5% were female, and 70.9% were White. Most COPD patients (91.8%) had three or more comorbidities. (2)  In the nine months post-discharge, patients with COPD had significantly higher healthcare utilization than patients without COPD. Post-discharge ED visits, readmissions, length of stay during readmission, rehabilitation/SNF visits, outpatient office visits, and telemedicine visits all increased. (3)  Results from the multivariable Poisson regression model showed that patients with COPD are at increased risk for healthcare utilization in the nine months post-discharge. ",
+    "hypothesis":" (1) Patients with COPD may have worse outcomes when infected with severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). (2)  Patients with COPD may have higher healthcare utilization compared to patients without COPD in the post-discharge period. (3)  The presence of COPD may be associated with increased risk of healthcare utilization. "
+  },
+  {
+    "background":" (1)EM emerged as an important conditional pathogen in hospital-acquired infections, associated with multidrug resistance and high mortality. (2)  Clinical isolates of EM usually conferred resistance to multiple antibiotics, with a high rate of resistance to aminoglycosides. (3)  Aminoglycoside antibiotics cause mistranslated proteins by targeting the regions of 16S rRNA, leading to cell death. ",
+    "hypothesis":" (1) The resistance mechanism to aminoglycosides in EM may involve enzymatic modification of 16S rRNA. (2)  The ant(6) gene from EM might be responsible for conferring streptomycin resistance. (3)  The structure and molecular mechanism of the ANT(6) enzyme in EM need further investigation. "
+  },
+  {
+    "background":" (1)Dysmenorrhea is characterized by pain in the lower abdomen before or during menstruation. (2) The prevalence of dysmenorrhea varies significantly, ranging from 16% to 91%. (3) Some studies suggest a link between dysmenorrhea and abnormal metabolic changes in the brain. ",
+    "hypothesis":" (1)The increase of prostaglandins, particularly PGF2\u03b1, is associated with primary dysmenorrhea. (2) Vasopressin may play a role in the etiology of primary dysmenorrhea. (3) Dysmenorrhea may lead to the development of central sensitivity to pain. "
+  },
+  {
+    "background":"  (1) Bacterial infectious diseases pose a continuous threat to human health, and the misuse of antibiotics has led to drug resistance. (2)  Photothermal therapy for antibacterial infections (aPTT) denatures bacterial proteins or enzymes through high temperatures. (3)  High temperatures in photothermal therapy activate cellular self-protection mechanisms, such as the upregulation of heat shock proteins (HSPs), which impairs the therapy's effectiveness.  ",
+    "hypothesis":"  (1) Mild-temperature photothermal therapy can effectively treat bacterial infections without damaging surrounding healthy tissues. (2)  ROS storms disrupt the activity of HSPs, and maintaining adequate ROS levels is key to antimicrobial strategies. (3)  Palladium-copper nanoparticles (PC-NPs) with nanozyme activity can catalyze the production of hydroxyl radicals and achieve mild photothermal therapy.  "
+  },
+  {
+    "background":" (1)AMR is becoming a global public health threat due to antibiotic misuse, causing severe infections and longer hospitalization. (2) Drug resistance in tuberculosis is caused by various factors including patient non-adherence, treatment errors, and bacterial mutations. (3) There is a lack of data on the prevalence and impact of drug-resistant tuberculosis, particularly in sub-Saharan Africa. ",
+    "hypothesis":" (1)Appropriate diagnosis and timely treatment of tuberculosis can effectively contain the spread of drug resistance. (2) Increased focus on correct medications in each new tuberculosis case can help control and eradicate the disease. (3) Phenotypic and genotypic methods can be used to detect drug resistance in tuberculosis, with phenotypic methods also identifying risk factors associated with resistance. "
+  },
+  {
+    "background":" (1)A statistically significant inverse correlation was found between retinal thickness and vision in all subfields. (2) A statistically significant inverse correlation was found between SCP VD and vision in all subfields. (3) An inverse correlation was found between DCP VD and vision in all subfields without statistical significance.   ",
+    "hypothesis":" (1)Retinal thickness may be a biomarker for poor visual prognosis in RAO. (2) SCP VD may be a biomarker for poor visual prognosis in RAO. (3) DCP VD may not be a reliable biomarker for visual prognosis in RAO.  "
+  },
+  {
+    "background":" (1)Macrophages can polarize into pro-inflammatory M1 macrophages and anti-inflammatory M2 macrophages. (2) M1 macrophages promote bone resorption and secrete pro-inflammatory cytokines. (3) M2 macrophages stimulate osteoblast differentiation and bone formation. ",
+    "hypothesis":" (1)Imbalanced polarization of macrophages can lead to immune dysregulation and inflammatory stimulation. (2) Imbalance in macrophage polarization can contribute to bone-related disorders such as osteoporosis, steroid-induced femoral head necrosis, and rheumatoid arthritis. (3) Targeting the polarization of M1/M2 macrophages could be an effective treatment for bone homeostasis disorders. "
+  },
+  {
+    "background":" (1) QBD inhibited H1299 tumor growth in a dose-dependent manner. (2)  QBD had better anti-tumor efficiency than the positive DDP control. (3)  QBD treatment caused morphological changes in H1299 cells. ",
+    "hypothesis":" (1) QBD may induce apoptosis in H1299 cells. (2)  QBD may target specific pathways related to tumor growth. (3)  QBD may have potential therapeutic effects on NSCLC. "
+  },
+  {
+    "background":" (1)GOT2 is a mitochondrial enzyme involved in multiple metabolic functions, including nucleotide synthesis, redox homeostasis, and fueling the TCA cycle. (2)  Impaired proliferation of pancreatic cancer cells due to loss of GOT2 can be rescued by aspartate supplementation. (3)  Loss of GOT2 induces reductive stress characterized by increased levels of NADH in pancreatic cancer cells.   ",
+    "hypothesis":" (1) Loss of GOT2 in cancer cells can be compensated by alternative pathways for aspartate acquisition. (2)  Increased expression of GOT2 promotes proliferation in triple-negative breast cancer cells. (3)  GOT2 is involved in sustaining oxidative metabolism in neurons to generate energy for highly active subtypes.   "
+  },
+  {
+    "background":" (1)Patients with HBV infection are at high risk of progressive liver diseases and hepatocellular carcinoma (HCC). (2) HBsAg seroclearance can reduce HCC risk after viral suppression. (3) Current CHB standard of care treatment achieves a low rate of HBsAg seroclearance.   ",
+    "hypothesis":" (1)Increasing awareness of HBV functional cure can lead to improved patient outcomes. (2) HBV functional cure could be achieved through sustained undetectable HBsAg and HBV DNA levels. (3) Improving education about surrogate biomarkers and benefits of HBV functional cure may increase acceptance of functional cure regimens.  "
+  },
+  {
+    "background":"  (1) Approximately 2.05 billion people in the world suffer from digestive diseases.  (2)  Digestive diseases in primary care in China have not received enough attention.  (3)  Current international or national guidelines for digestive diseases are often specialized and challenging for primary care providers to comprehend.  ",
+    "hypothesis":"  (1) The development of a concise and easy-to-understand reference manual for the diagnosis and rational use of antimicrobial agents in primary care would be beneficial. (2)  The Delphi technique can be utilized to establish a collective consensus among professionals for the development of the reference manual. (3)  A reference manual specifically tailored to outpatient primary care settings is needed, as current guidelines are not applicable.  "
+  },
+  {
+    "background":" (1)MSU crystals stimulate the production of interleukin-1\u03b2 (IL-1\u03b2) and initiate an inflammatory reaction in the synovium and joint fluid. (2) Potassium ions efflux is triggered by MSU crystals, leading to the activation of the NALP3 inflammasome. (3) P2X7R signaling pathway might be involved in regulating IL-1\u03b2 secretion during the development of acute gouty arthritis.   ",
+    "hypothesis":" (1)Suppression of P2X7R can alleviate inflammation in acute gouty arthritis. (2) Modulating potassium channel activity may have an impact on MSU-induced inflammation. (3) Inhibition of P2X7R signaling can attenuate IL-1\u03b2 production in acute gouty arthritis.  "
+  },
+  {
+    "background":" (1)Tumors are the second leading cause of death worldwide, with approximately 1670 deaths per day in the United States and 7700 deaths per day in China. (2) Surgical resection is the primary form of treatment for tumors, but it cannot remove potential unlocated tumor foci. (3) Chemotherapeutic drugs lack targeting and result in severe side effects.  ",
+    "hypothesis":" (1)Engineered plant-derived nanovesicles (PDNVs) can serve as an effective anti-tumor therapeutic. (2) PDNVs can regulate tumor cell behavior and remodel the tumor microenvironment. (3) Engineered PDNVs can be used as a drug delivery platform to amplify the anti-tumor effects.  "
+  },
+  {
+    "background":" (1)Patients with liver transplant have limited efficacy of systemic therapy for hepatocellular carcinoma (HCC) due to immunosuppressive drugs. (2) High exposure to tacrolimus or cyclosporine increases the recurrence rate of HCC. (3) The presence of circulating tumor cells (CTCs) is associated with HCC recurrence and patient response to therapy.  ",
+    "hypothesis":" (1)Adoptive T-cell transfer of tumor-specific T cells can target both primary HCC tumors and CTCs. (2) Immunosuppressive drug-resistant T cells can recognize and lyse circulating HCC cells. (3) Use of immunosuppressive drug-resistant T cells as prophylaxis can reduce the risk of HCC recurrence in patients post-liver transplant.  "
+  },
+  {
+    "background":" (1) Breast cancer is the most common malignant tumor in women worldwide and is hormone-dependent. (2)  Almost 80% of breast cancer patients exhibit estrogen receptor (ER) positivity, while 65% exhibit progesterone receptor (PR) positivity. (3)  Endocrine therapy is widely used in the clinical setting for ER- and/or PR-positive breast cancer patients, as it effectively reduces recurrence and improves survival rates. ",
+    "hypothesis":" (1) Long-term administration of Tamoxifen (TAM) for endocrine therapy in premenopausal women may lead to abnormal endometrial manifestations. (2)  Postmenopausal women with abnormal endometrial hyperplasia may have a higher risk of endometrial cancer compared to those with benign endometrial lesions. (3)  The thickness of the endometrium detected by ultrasound may differ among breast cancer patients undergoing different endocrine therapy treatments. "
+  },
+  {
+    "background":" (1)Atopic dermatitis (AD) is a recurring inflammatory skin disease that is common among preschool children, with most cases being mild. (2)  AD can critically influence quality of life due to skin lesions and severe itching. (3)  AD is often complicated by other allergic diseases such as asthma and allergic rhinitis.  ",
+    "hypothesis":" (1) Anxiety and depression scores in mothers may be associated with the severity of atopic dermatitis among children. (2)  Sleep quality scores in mothers may be influenced by the severity of atopic dermatitis among children. (3)  Standard treatment for AD may improve anxiety, depression, and sleep quality in mothers.  "
+  },
+  {
+    "background":" (1)The prevalence of inguinal hernia increases with age and is higher in men than in women. (2) Seroma is the most frequent minor complication following inguinal hernia repair surgery, with varying incidence rates. (3) Elderly patients with seroma exhibit higher rates of obesity, longer duration of disease, larger hernia aperture diameter, and higher incidence of bilateral hernias and irreducible/incarcerated hernias compared to those without seroma. ",
+    "hypothesis":" (1)Hernia size \u2265 3 cm and internal inguinal hernia are risk factors for the formation of postoperative seroma. (2) Patients with irreducible/incarcerated hernias or those undergoing emergency surgery may have a higher susceptibility to seroma formation. (3) Lower levels of AFR, higher levels of CRP, and a greater mFI score may be associated with seroma formation in elderly patients with inguinal hernia. "
+  },
+  {
+    "background":" (1)The magnitude of depression among hypertensive patients was 37.1% (95% CI 31.7\u201343.9).  (2) 56.1% of hypertensive patients had no depression, while 6.7%, 17.3%, 14.7%, and 5.1% had mild, moderate, moderately severe, and severe depression, respectively. (3)  Significantly associated factors with depression include body mass index, family history of hypertension, co-morbidity, perceived stress scale, and medication adherence.  ",
+    "hypothesis":" (1) Higher body mass index might be associated with a lower likelihood of depression among hypertensive patients. (2)  Having a family history of hypertension could potentially decrease the risk of depression among hypertensive patients. (3)  The presence of co-morbid illness, higher levels of perceived stress, and poor medication adherence might be linked to a higher likelihood of depression among hypertensive patients.  "
+  },
+  {
+    "background":" (1)Individuals with high-risk factors for vascular disease may face elevated risks for Parkinson's Disease (PD). (2) Cohort studies have shown a higher incidence of cardio-cerebrovascular disease in early-stage PD patients compared to healthy groups. (3) Cerebrovascular risk factors and PD have been found to be correlated in large-scale longitudinal follow-up studies.   ",
+    "hypothesis":" (1)Vascular factors may play a role in the pathogenesis and progression of PD. (2) Comorbid conditions of cerebrovascular diseases and PD may intensify both motor and non-motor symptoms and exacerbate PD's pathological progression. (3) Early detection of cerebrovascular injuries is important for timely diagnosis and treatment of PD.   "
+  },
+  {
+    "background":" (1)Psoriasis is a chronic inflammatory immune-mediated disease with a 3% worldwide prevalence. (2) Psoriasis is associated with various comorbidities, including cardiometabolic diseases, gastrointestinal tract issues, kidney disease, malignant tumors, infections, and mood disorders. (3) Cardiovascular disease (CVD) shares common risk factors with psoriasis. ",
+    "hypothesis":" (1)There may be genes that are differentially expressed between psoriasis lesional skin and normal skin. (2) There may be genes related to cardiovascular disease (CVD) that are differentially expressed in psoriasis. (3) The biological mechanisms associated with psoriasis and CVD may overlap. "
+  },
+  {
+    "background":" (1)Blood culture is the gold standard tool for identifying bloodstream infections (BSI) and sepsis. (2) In Dalian, China, Gram-positive cocci were the most prevalent BSI pathogens in blood cultures from 2015 to 2019. (3) Antibiotic resistance surveillance data from Korea and Europe revealed that E. coli and S. aureus were the most prevalent pathogens in BSI. ",
+    "hypothesis":" (1)The distribution and antibiotic resistance patterns of BSI pathogens vary among regions due to distinct epidemiological and geographic factors. (2) The demographic factors, such as age and sex, may influence the blood culture positivity rates. (3) The rates of antibiotic resistance in BSI pathogens may differ based on the pathogen type (Gram-positive vs. Gram-negative). "
+  },
+  {
+    "background":"  (1) Results were reported in spot counts (SPCs) per 250 000 cells for IE1 and pp65.  (2)  SPCs were categorized as low if they were \u2264100 per 250 000 cells and high if >100 per 250 000 cells. (3)  Changes in SPCs for IE1 and pp65 between baseline and 2 and 4 weeks after transplant were categorized as positive \u0394 change if the week 2 or 4 count was greater than or equal to the baseline count, and negative \u0394 change if the week 2 or 4 count was less than the baseline count.  ",
+    "hypothesis":"  (1) Low pp65 SPCs at week 4 are associated with an increased risk for clinically significant cytomegalovirus infection (CS-CMVi).  (2)  Negative \u0394 changes in IE1 and pp65 SPCs from baseline to week 2 increase the risk of developing CS-CMVi. (3)  Negative \u0394 changes in IE1 and pp65 SPCs from baseline to week 4 are associated with an increased risk for CS-CMVi.  "
+  },
+  {
+    "background":" (1)Sales of non-prescription drugs via online pharmacies have greatly increased. (2) Certain over-the-counter (OTC) drugs are being purchased more frequently over the internet. (3) There are known potential drug-drug interactions between antineoplastic and immune-modulating drugs and OTC drugs. ",
+    "hypothesis":" (1)The risk of drug interactions between antineoplastic and immune-modulating drugs and OTC drugs may differ between sales in traditional community pharmacies and online pharmacies. (2) Buying OTC drugs online without consulting a healthcare professional may increase the risk of drug interactions. (3) Patients who purchase certain OTC drugs online may unknowingly jeopardize the efficacy of their antineoplastic and immune-modulating therapy. "
+  },
+  {
+    "background":" (1)Substance use and misuse among older adults in Tennessee is a growing healthcare concern. (2) Almost 30% of older adults reported past month alcohol use. (3) Marijuana use in the past month was significant for older adults with two or more chronic diseases.  ",
+    "hypothesis":" (1)Older adults with chronic diseases are more likely to engage in substance use and misuse. (2) Alcohol use may have a protective effect on the development of chronic diseases among older adults. (3) Screening and education on substance misuse should be conducted by clinicians to optimize health outcomes in older adults with chronic diseases.  "
+  },
+  {
+    "background":" (1) The cotton bollworm (Helicoverpa armigera) is a polyphagous insect species that causes damage to a wide range of plants, including cotton and tomato. (2) Insects, including the cotton bollworm, often harbor various types of microorganisms in their digestive system. (3) These microorganisms can have different relationships with the physiology of insects, such as symbiosis or pathogenicity.  ",
+    "hypothesis":" (1) Molecular identification can be used to distinguish different species of the genus Helicoverpa in Iran. (2) The endosymbiotic bacteria found in the cotton bollworm may act as symbionts inside the insect's body. (3) The presence of multiple bacterial species in the insect host may be required for its survival.  "
+  },
+  {
+    "background":" (1)Colin Blakemore was a brilliant neuroscientist, eloquent and persuasive science communicator, and a passionate advocate for animal research. (2) Helen came across Colin on a school trip when she attended an introductory lecture on neuroscience at the Methodist Central Hall, Westminster. (3) Colin's lectures on the visual system introduced Helen to the concept of neuronal plasticity, specifically through his early work on how alterations to the visual environment during development can disrupt the orientation of cortical cells. ",
+    "hypothesis":" (1)Colin's work on neuronal plasticity could impact the onset and progression of neurodegenerative disorders. (2) Environmental enrichment has a positive effect on neuronal plasticity in adult conditions such as Huntington's disease and stroke. (3) Intellectual enrichment, such as high education levels and verbal intellectual ability, may have positive effects on carriers of the BDNF gene. "
+  },
+  {
+    "background":" (1)A 78-year-old female presented with altered sensorium, high-grade fever, and loss of appetite. (2)  Neurological examination showed no features of meningeal irritation. (3)  Initial investigations revealed anemia, leukocytosis, and raised C-reactive protein. ",
+    "hypothesis":" (1) The patient may have an infectious, inflammatory, or neoplastic condition. (2)  Tubercular meningitis or aseptic meningitis might be the potential diagnosis. (3)  Visceral malignancy could be a differential diagnosis. "
+  },
+  {
+    "background":" (1)A significant number of healthcare professionals in Addis Ababa public hospitals have been reported to get re-infected after COVID-19 vaccination. (2) Symptomatic SARS-CoV-2 reinfections have been identified among healthcare providers engaged in Addis Ababa public health facilities. (3)  Healthcare professionals who took infection prevention training on COVID-19 and those with a history of chronic respiratory diseases were associated with SARS-CoV-2 reinfection.   ",
+    "hypothesis":" (1)The prevalence of SARS-CoV-2 reinfection among vaccinated healthcare providers with a pre-vaccination infection history is high. (2) Infection prevention training on COVID-19 is needed to reduce SARS-CoV-2 reinfection. (3) Factors such as educational status, profession, type of vaccine taken in the first dose, chronic respiratory diseases, and number of vaccinations may contribute to SARS-CoV-2 reinfection after vaccination.   "
+  },
+  {
+    "background":" (1)Sleep disturbance is common in people with multiple sclerosis, (2) Fatigue affects up to 90% of persons with MS, (3) Sleep disorders are more prevalent in persons with MS compared to the general population ",
+    "hypothesis":"hypotheses:"
+  },
+  {
+    "background":" (1) Superior overall treatment effect of DMF compared to TERI for relapse-related endpoints. (2)  Low to moderate treatment effect heterogeneity detected based on individualized scores. (3)  Identified a subgroup of MS patients for whom DMF was more effective than TERI based on age, MS duration, diagnosis status, and prior glatiramer acetate usage.  ",
+    "hypothesis":" (1) DMF may be a more effective treatment option for relapse-related outcomes in patients with relapsing-remitting MS compared to TERI. (2)  Patient-specific characteristics and factors may contribute to treatment effect heterogeneity. (3)  The age, MS duration, diagnosis status, and prior glatiramer acetate usage may influence the comparative effectiveness of DMF and TERI in certain patient subgroups.  "
+  },
+  {
+    "background":" (1)The study aimed to compare the risk of major adverse events and length of stay between patients undergoing ultrafast track and conventional fast track after cardiac surgery. (2) Of the included patients, 51.5% were extubated in the operating room, and this proportion increased progressively over the study period. (3) The risk profile of fast-track patients was worse compared to ultrafast-track patients, with a higher incidence of comorbidities and previous cardiac operations.  ",
+    "hypothesis":" (1)Extubation in the operating room (ultrafast track) may provide additional benefits compared to extubation attempted in the first 6 postoperative hours (fast track). (2) Ultrafast track may lead to reduced mortality, kidney damage, reintubation, pneumonia, and prolonged intubation compared to fast track. (3) Fast-track patients may have a higher risk of myocardial infarction compared to ultrafast-track patients.  "
+  },
+  {
+    "background":" (1)Perceiving the body through interoceptive signals is distinct from perceiving the body through exteroceptive signals. (2) There are no validated self-report instruments for measuring bodily exteroception. (3) Existing self-report measures of corporeal awareness either focus exclusively on interoception or combine different sensory domains.  ",
+    "hypothesis":" (1)The novel Exteroceptive Body Awareness questionnaire (EBA-q) can assess bodily self-consciousness based on the processing of exteroceptive signals. (2) EBA-q can be used as a unidimensional scale reflecting exteroceptive bodily self-consciousness or as a multifactorial scale with four sub-scales. (3) EBA-q has good internal consistency and can demonstrate convergent and divergent validity with existing body awareness questionnaires and behavioral measures of exteroceptive and interoceptive bodily self-consciousness. "
+  },
+  {
+    "background":" (1)The prevalence of pediatric obesity has increased exponentially over the past four decades. (2) Youth-onset obesity is associated with comorbidities previously seen only in adult populations, such as type 2 diabetes, hypertension, dyslipidemia, nonalcoholic fatty liver disease, and obstructive sleep apnea. (3) For many children living with obesity, lifestyle modifications alone result in only modest weight reduction, with the weight frequently regained after an initial period of success. ",
+    "hypothesis":" (1)Obesity pharmacotherapy can support sustained weight reduction in pediatric cohorts. (2) There are obstacles in performing clinical trials to assess the efficacy of obesity pharmacotherapy in pediatric population. (3) Clinicians lack formal education and experience in the diagnosis, evaluation, and management of pediatric obesity and available obesity pharmacotherapies. "
+  },
+  {
+    "background":" (1)The incidence of intracranial hematoma (ICH) secondary to aneurysm rupture is reported to be as high as 9-38%. (2)  Aneurysms located in anterior cerebral artery (ACA), anterior communicating artery (AcomA), and middle cerebral artery (MCA) are more predisposed to ICH, potentially due to limited subarachnoid space. (3)  Ruptured MCA aneurysms tend to cause larger ICH volumes compared to ruptured AcomA aneurysms.  ",
+    "hypothesis":" (1) Patients with aneurysmal ICH tend to have a more severe clinical course and poorer functional outcome compared to SAH patients without ICH. (2)  Composite therapy of aneurysm clipping or endovascular coiling and hemorrhage drainage may be beneficial for ruptured MCA aneurysms concomitant with ICH. (3)  The ICH volume secondary to ruptured AcomA aneurysms may have different clinical characteristics compared to ICH caused by MCA aneurysms.  "
+  },
+  {
+    "background":" (1)67.15% of the 6337 participants established health records within the first 12 weeks of pregnancy. (2)  88.35% of the participants received at least five antenatal care (ANC) visits. (3)  76.88% of the participants received a postpartum visit and 84.20% received a health examination after delivery. ",
+    "hypothesis":" (1)Age is positively correlated with receiving at least five ANC visits, postpartum visits within 28 days, and a physical examination within 42 days after delivery. (2) Education, household income, health insurance, and maternal health education are positively associated with prenatal and postnatal healthcare utilization. (3) The number of children is negatively correlated with ANC visits and receiving a health examination after delivery. "
+  },
+  {
+    "background":" (1)More than 7 million people are newly diagnosed with acute coronary syndrome (ACS) each year. (2) Inflammatory indices have been researched as a convenient and noninvasive measure for diagnosing and assessing prognostic risks in ACS patients. (3) Patients with low Advanced Lung Cancer Inflammation Index (ALI) show significant differences in age, history of heart failure, ischemic stroke, and other factors compared to patients with high ALI.",
+    "hypothesis":"hypotheses:"
+  },
+  {
+    "background":" (1) Polypharmacy is common in older populations with multiple chronic conditions. (2)  Simplifying dosing regimens and frequency of uptake can help avoid adverse clinical and health-care consequences. (3)  EMR data from the Acentrus database was used to select patients diagnosed with CLL/SLL who started treatment with 1L ibrutinib or acalabrutinib between January 1, 2018, and November 30, 2020.   ",
+    "hypothesis":" (1) Polypharmacy in older populations leads to increased healthcare costs, adverse drug events, and potential drug interactions. (2)  Simplified dosing regimens and reduced frequency of uptake improve treatment adherence. (3)  Treatment with 1L ibrutinib or acalabrutinib results in different levels of adherence among CLL/SLL patients.  "
+  },
+  {
+    "background":" (1)Cancer stem cells (CSCs) contribute significantly to tumor recurrence, tumorigenicity, and drug resistance. (2) CSCs exhibit characteristics similar to healthy stem cells, such as self-renewal and differentiation potential. (3) CSCs make up a small fraction of tumor tissues, typically 0.01-2% of the overall tumor mass.  ",
+    "hypothesis":" (1)Mitochondria play a pivotal role in conferring drug resistance to CSCs. (2) Alterations in mitochondrial structure, function, and location are commonly observed in CSCs. (3) Exploring how mitochondrial function regulates CSCs could lead to innovative CSC-targeted treatments.  "
+  },
+  {
+    "background":"  (1) DVT is a common early complication after SCI and spinal surgery, and its prevalence has been increasing. (2) Anticoagulant therapy for SCI patients is controversial due to the risk of bleeding and other complications. (3) Intravenous administration of EH (0.3, 1.0, 3.0 mg/kg) reduced the wet weight and dry weight of thrombus in a dose-dependent manner, but its effects were lower than LMWH.   ",
+    "hypothesis":"  (1) Rational use of anticoagulants such as LMWH can reduce the occurrence of thrombosis without increasing bleeding risk. (2) Recombinant Neorudin (EH) could potentially be effective in preventing DVT after SCI. (3) Higher doses of EH may lead to greater inhibition of thrombus formation.  "
+  },
+  {
+    "background":"  (1) Esculetin alleviates tissue pathological damage and reduces serum DAO levels in intestinal I/R rats. (2)  Esculetin ameliorates inflammatory response, oxidative stress, and apoptosis in intestinal I/R rats.  (3)  Esculetin activates autophagy and SIRT3/AMPK/mTOR signaling in intestinal I/R rats.  ",
+    "hypothesis":"  (1) Esculetin may have a protective role in I/R-induced intestinal injury. (2)  Esculetin may suppress inflammatory response, oxidative stress, and apoptosis in intestinal I/R rat model. (3)  Esculetin may stimulate SIRT3/AMPK/mTOR signaling pathway and autophagy in intestinal I/R injury.  "
+  },
+  {
+    "background":" (1)PTH level was positively correlated with the occurrence of fatal arrhythmias, HF, cardiogenic shock, cardiogenic death, and overall MACE after primary PCI. (2) ROC curve analysis showed that PTH had a good predictive ability for in-hospital MACE after primary PCI, with a sensitivity of 65.2%, specificity of 81.9%, and AUC=0.754. (3) Patients with in-hospital MACE after PCI had higher levels of PTH, LDH, CysC, CRP, and FBG, and lower levels of SBP and eGFR on admission compared to those without MACE.   ",
+    "hypothesis":" (1)Higher PTH levels may contribute to an increased risk of fatal arrhythmias, HF, cardiogenic shock, cardiogenic death, and overall MACE after primary PCI. (2) PTH could be a useful biomarker for predicting in-hospital MACE after primary PCI. (3) Elevated PTH, LDH, CysC, CRP, and FBG, as well as lower SBP and eGFR, may be associated with an increased risk of MACE after PCI.   "
+  },
+  {
+    "background":" (1)The incidence and mortality rates of hepatocellular carcinoma (HCC) are increasing. (2) Most HCC patients have advanced disease at first diagnosis and do not qualify for surgery. (3) Pathological examination indicated different grades of HCC. ",
+    "hypothesis":" (1)Risk factors can be identified for the development of E-S Grade III-IV disease. (2) A nomogram can be developed to predict the preoperative risk classification of HCC. (3) Inflammatory markers may be associated with the prognosis of HCC. "
+  },
+  {
+    "background":" (1) Color fundus photography (CFP) and Multicolor Fundus Imaging (MFI) were used to analyze retinal lesions in diabetic retinopathy and retinal vein occlusion. ",
+    "hypothesis":" (1) CFP and MFI can accurately detect and assess various retinal lesions. (2)  There may be variations in the detection and visibility of different retinal lesions between CFP and MFI. (3)  The agreement between observers for lesion detection using CFP and MFI may vary. "
+  },
+  {
+    "background":" (1)Baseline inflammatory indicators (ELR, NLR, LTB4, TSLP) are positively associated with initial severity of AD (EASI). (2)  Reductions in EASI and PP-NRS scores were observed after SMP treatment. (3)  Reductions in inflammatory indicators (ELR, NLR, LTB4, TSLP) were observed after SMP treatment, with sustained decreases up to week 8 except for PLR which showed transient changes.  ",
+    "hypothesis":" (1)Baseline inflammatory indicators can predict the severity of AD and its response to treatment. (2)  SMP treatment leads to a reduction in both clinical scores (EASI, PP-NRS) and inflammatory markers (ELR, NLR, LTB4, TSLP). (3)  Changes in inflammatory markers (ELR, NLR, LTB4, TSLP) correlate with improvements in clinical scores (EASI, PP-NRS) during SMP treatment.  "
+  },
+  {
+    "background":" (1) Pulmonary aspiration of gastric contents is a severe perioperative complication of anesthesia, contributing to significant morbidity and mortality. (2)  General anesthesia and sedation can decrease the tone of the lower esophageal sphincter, increasing the risk of gastric contents reflux. (3)  Previous studies have reported a 0.1% incidence of aspiration in patients receiving Monitored Anesthesia Care (MAC) during endoscopy. ",
+    "hypothesis":" (1) Ultrasonographic assessment of gastric volume (GV) can help predict the risk of pulmonary aspiration. (2)  The anesthetic and gastroscopic management during the procedure can affect GV. (3)  Anatomic anomalies in the digestive system may impact the accuracy of GV measurement. "
+  },
+  {
+    "background":" (1)Alcohol consumption induces a weakened gut barrier and changes in the composition of the gut microbiota. (2) The presence of CYP2E1 and its elevated levels in the gastrointestinal tract after alcohol exposure leads to elevated levels of reactive oxygen species (ROS) and acetaldehyde, inducing inflammation and oxidative damage in the gut. (3)  Gut dysbiosis can result in the influx of harmful molecules such as bacterial endotoxin LPS and peptidoglycan, which induce intestinal inflammation and oxidative damage, compromising the intestinal mucosal barrier.  ",
+    "hypothesis":" (1)Altered gut microbiota composition plays a role in the development and progression of alcoholic liver disease (ALD). (2) Oxidative stress-mediated post-translational modifications (PTMs) contribute to the integrity of the intestinal barrier in ALD. (3)  Gut dysbiosis-induced intestinal inflammation and oxidative damage contribute to the progression of ALD.  "
+  },
+  {
+    "background":"  (1) Aphallia is a very uncommon congenital condition with an incidence of about one in 30 million births. (2)  The absence of a penis is due to the failure of the genital tubercle to form or develop fully. (3)  Developing countries face challenges in managing complex congenital anomalies like aphallia due to limited access to healthcare services and resources.  ",
+    "hypothesis":"  (1) Gender reassignment during childhood has historically been considered the best approach for managing aphallia. (2)  Considering discussions with the patient and family, socio-sexual future, genotype, and fertility may be recommended for decision-making regarding aphallia management. (3)  Multidisciplinary collaboration and proper counseling services are important for managing aphallia in developing countries.  "
+  },
+  {
+    "background":" (1)Consuming herbal plants as traditional medicine is still used in Indonesia to prevent and overcome various health problems. (2) Moringa oleifera leaves contain nutrients, antioxidants, chemicals, and bioactive substances. (3) The study found significant differences in the MCH value of the D800 group compared to the control group.   ",
+    "hypothesis":" (1)Traditional herbal medicine may provide a less expensive and side-effect-free alternative to chemical medications. (2) Moringa oleifera leaves may have potential health benefits due to their nutrient and bioactive substance content. (3) Consumption of Moringa leaf powder may have an impact on hematological profiles, specifically the MCH value.  "
+  },
+  {
+    "background":" (1)Higher IL-9 level is associated with psoriasis. (2) Serum IL-9 level positively correlated with IL-17A level and the presence of Metabolic syndrome (MetS). (3) IL-9 stimulated antimicrobial peptides and chemokines expression in psoriatic patients. ",
+    "hypothesis":" (1)Increased IL-9 level may contribute to the pathophysiology of psoriasis. (2) IL-9 and IL-17A may interact in the immunological pathway of psoriasis. (3) IL-9 may play a role in the development of MetS in psoriatic patients. "
+  },
+  {
+    "background":" (1)Transcranial magnetic stimulation (TMS) is a non-invasive and painless neurophysiological technique that stimulates the human brain using a magnetic field. (2)  TMS can selectively modulate neural activity by depolarizing neurons in a precise spatial and temporal manner. (3)  TMS has direct and after-effects on cortical excitability, leading to changes in synaptic plasticity and neural network activation.  ",
+    "hypothesis":" (1) The mechanisms underlying the effects of TMS involve spike timing-dependent plasticity (STDP) and Hebb's theory. (2)  TMS can induce long-term potentiation (LTP) and long-term depression (LTD) of synaptic transmission. (3)  TMS can alter the release of neurotransmitters, such as glutamate and GABA, and modulate the activity of ion channels and membrane-binding proteins.  "
+  },
+  {
+    "background":" (1)The prevalence of ESBL-producing E. coli (ESBL-EC) is on the rise in different regions, including the United States, Africa, Vietnam, Jordan, and China. (2) The common treatment for ESBL-EC involves parenteral aminoglycosides or carbapenems, which require hospitalization and increase financial burden. (3) Understanding the clinical characteristics of E. coli causing UTI episodes is important for developing effective preventive strategies for UTIs caused by both non-ESBL-EC and ESBL-EC.  ",
+    "hypothesis":" (1)ESBL-EC strains are more prevalent in hospitalized patients with UTIs. (2) The prevalence of ESBL-EC isolates in urinary tract infections is high in China. (3) Developing targeted preventive strategies can help in reducing the burden of UTIs caused by both non-ESBL-EC and ESBL-EC.  "
+  },
+  {
+    "background":" (1)Changes in healthcare worldwide have led to an emphasis on leadership development in healthcare professions, driven by factors such as advances in technology and the global COVID-19 pandemic. (2) Effective leadership is now needed at all levels of healthcare for safety assurance, service development, and good clinical outcomes. (3) Leadership skills enhance healthcare practitioners' willingness to participate in team care and facilitate the long-term sustainability of team care. ",
+    "hypothesis":" (1)New strategies and ways of working are required in healthcare professions to address the challenges posed by changes in healthcare. (2) Bridging the boundaries of professional disciplines is needed to meet the complex service needs of the future through interprofessional collaboration. (3) Different models of leadership, such as collaborative, transformational, and shared leadership, are valuable contributions to healthcare professions. "
+  },
+  {
+    "background":" (1) Mowat-Wilson syndrome (MWS) is an autosomal dominant disease caused by a pathogenic variant of the ZEB2 gene. (2) The main clinical manifestations of MWS include special facial features, intellectual disability, global developmental delay, epilepsy, and other congenital malformations. (3) Special facial features of MWS patients include forehead protrusion, increased eye distance, widened eyebrows with horn-like protrusions inside, round nose tip protrusion, open mouth with M-shaped upper lip, and small jaw.  ",
+    "hypothesis":" (1) The novel heterozygous variant (NM_014794.3:c.1147_1150dupGAAC, p.Q384Rfs*7) found in Patient One may be a de novo variant based on available evidence. (2) Patients with MWS may have a wide range of intellectual disabilities ranging from mild to severe, as observed in Patient One with mild to moderate intellectual disability. (3) The unique facial features observed in MWS patients, such as forehead protrusion, increased eye distance, and widened eyebrows, may be attributed to the pathogenic variant of the ZEB2 gene.  "
+  },
+  {
+    "background":"  (1) Adolescence is a crucial developmental stage with a high incidence of Major Depressive Disorder (MDD). (2) Adolescents with MDD commonly exhibit fewer delusions compared to adults. (3) Adolescent MDD may have long-lasting effects and lead to social and mental impairments.  ",
+    "hypothesis":"  (1) The neurobiological foundations of MDD involve the monoamine neurotransmitter hypothesis and the depletion of neurotransmitters like 5-HT, NA, or DA in the Central Nervous System. (2) Dysfunction in the DA system may be responsible for symptoms like anhedonia, loss of motivation, energy, and attention in MDD. (3) The functioning of DA neurons in the mesolimbic pathway plays a role in the development of MDD.  "
+  },
+  {
+    "background":"  (1) Pain is a subjective feeling that is difficult to measure accurately due to its complex symptoms, duration, difficulty in treatment, and possible pain pathways associated with it. (2)  Living kidney donor surgery is generally an open surgery, which leads to significant trauma and slow postoperative recovery, often requiring more opioid drugs. (3)  The pain sensitivity questionnaire (PSQ) is a self-assessment scale designed to evaluate pain sensitivity and has been widely studied globally, showing significant correlation with pain sensitivity in healthy individuals and patients with chronic pain.  ",
+    "hypothesis":"  (1) The PSQ can be utilized as a predictive tool for acute postoperative pain in living kidney donors. (2)  The PSQ may also help to identify individuals at high risk for developing postoperative chronic pain. (3)  PSQ scores may correlate with various outcome measures such as the number of patient-controlled analgesia (PCA), incidence of acute and chronic pain, and pain severity assessments.  "
+  },
+  {
+    "background":" (1)The role of endothelial cells in the genesis and progression of vascular inflammation in various diseases such as atherosclerosis, cardiovascular diseases, respiratory diseases, diabetes mellitus, and sepsis. (2) Activation of endothelial cells leads to the secretion of inflammatory mediators and initiation of innate and adaptive immune reactions. (3) Alterations in blood flow and exposure to specific cytokines or pro-inflammatory stimuli can induce a transition in endothelial cells from an anti-thrombotic, anti-inflammatory, and vasodilatory state to one that is pro-thrombotic, pro-inflammatory, and vasoconstrictive.  ",
+    "hypothesis":" (1)Aging might contribute to vascular endothelial dysfunction and cardiovascular diseases through the development of a pro-inflammatory state in the endothelium. (2) Reduced levels of serum 25-hydroxyvitamin D may be associated with vascular endothelial dysfunction and increased expression of NF-\u03baB and IL-6. (3) Habitual aerobic exercise training may enhance vascular endothelial function in older adults by targeting the NF-\u03baB signaling pathway.  "
+  },
+  {
+    "background":" (1)Adverse pregnancy outcomes such as premature birth, stillbirth, and low birth weight have significant impacts on neonatal health and can lead to long-term physical and psychological problems. (2)  Over 15 million babies are born prematurely worldwide each year, with Sub-Saharan Africa and South Asia accounting for more than 60% of preterm births. (3)  Around 20 million babies are born with low birth weight globally, with 15% of them born in Sub-Saharan Africa.  ",
+    "hypothesis":" (1)Adverse birth outcomes are associated with factors such as rural residency, lack of ANC follow-up, pregnancy-induced hypertension, anemia in mothers, and khat chewing. (2)  Enhancing ANC follow-up, iron and folic acid supplementation, early treatment of pregnancy-induced hypertension, and providing information on the risks of chewing khat may reduce adverse birth outcomes. (3)  The determinants of adverse birth outcomes in the Somali Region of eastern Ethiopia need to be further studied to inform interventions and improve pregnancy outcomes.  "
+  },
+  {
+    "background":" (1)Hmong, African American, and Somali groups have the highest rates of uncontrolled hypertension. (2) In all races except Somali, the rate of uncontrolled hypertension was highest in the 18\u201329 age group, decreased progressively over the next several decades, then increased again in the \u226570 age group. (3) Hmong men had the highest rate of uncontrolled HTN (33.6%) followed by African American (31.3%) then Somali (29.2%). Among women, African Americans had the highest rate (28.6%) followed by Hmong (28.5%) then Somali (25.7%). ",
+    "hypothesis":" (1)Hypertension control efforts need to be tailored to the specific characteristics of each racial group. (2) Young adults should be targeted with hypertension management interventions. (3) There may be underlying factors contributing to higher rates of uncontrolled hypertension in Hmong, African American, and Somali populations. "
+  }
+]
