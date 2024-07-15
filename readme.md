@@ -1,8 +1,8 @@
 # LLM4BioHypoGen
 
-This repository houses the datasets and code used in our [COLM 2024](https://colmweb.org/) paper titled "Large Language Models as Biomedical Hypothesis Generators: A Comprehensive Evaluation."
+This repository houses the datasets and code used in our [COLM 2024](https://colmweb.org/) paper: [Large Language Models as Biomedical Hypothesis Generators: A Comprehensive Evaluation](https://arxiv.org/abs/2407.08940).
 
-> An earlier version of this work was accepted at the [NeurIPS 2023 Workshop](https://neurips.cc/virtual/2023/workshop/66498) and is available as a preprint at  [Large Language Models are Zero Shot Hypothesis Proposers](https://arxiv.org/abs/2311.05965).
+> An earlier version of this work was accepted at the [NeurIPS 2023 Workshop](https://neurips.cc/virtual/2023/workshop/66498) and is available as a preprint: [Large Language Models are Zero Shot Hypothesis Proposers](https://arxiv.org/abs/2311.05965).
 
 ## Data
 
